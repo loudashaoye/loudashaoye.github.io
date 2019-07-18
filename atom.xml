@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://loudashaoye.github.io/</id>
     <title>豪杰的个人博客</title>
-    <updated>2019-07-18T04:17:06.309Z</updated>
+    <updated>2019-07-18T04:17:15.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://loudashaoye.github.io/"/>
     <link rel="self" href="https://loudashaoye.github.io//atom.xml"/>
@@ -39,7 +39,7 @@ First Boot Device 第一启动设备
 Hard Disk 硬盘				
 USE FDD 使用者                             				
 Exit 退出，出口			
-Sava Changes and Exit           保存更改并退出						
+Sava Changes and Exit            保存更改并退出						
 Sava Changes and Exit             保存更改并退出
 Discard Changes and Exit         放弃更改并退出
 Sava Changes and Reset          保存更改并重置
