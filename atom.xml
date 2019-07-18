@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://loudashaoye.github.io/</id>
     <title>豪杰的个人博客</title>
-    <updated>2019-07-18T04:09:48.614Z</updated>
+    <updated>2019-07-18T04:11:43.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://loudashaoye.github.io/"/>
     <link rel="self" href="https://loudashaoye.github.io//atom.xml"/>
@@ -19,19 +19,23 @@
         <content type="html"><![CDATA[<p>windows系统安装教程请咨询up
 联系qq： 851681631
 注意：闲人勿扰。</p>
-<p>**			BOIS引导设置**
+<p>BOIS引导设置
 1、台式机+笔记本USE启动设置
 快捷方式：f1-f12   \   del   自行测试，不懂问up
 2、bois学习常用词汇
-Device  装置                                  Priority  优先权
-St Boot Drvice 设置引导装置         Advanced Bios Features 高级基础输入输出系统特性设置
-First Boot Device 第一启动设备     Hard Disk 硬盘
-USE FDD 使用者                             Exit 退出，出口</p>
-<pre><code>					Sava Changes and Exit                  保存更改并退出
-					Discard Changes and Exit             放弃更改并退出
-					Sava Changes and Reset               保存更改并重置
-					Discard Changes and Reset          不保存更改并重置
-					Reseore Defaults                           恢复默认设置
+Device  装置<br>
+Priority  优先权
+St Boot Drvice 设置引导装置<br>
+Advanced Bios Features 高级基础输入输出系统特性设置
+First Boot Device 第一启动设备<br>
+Hard Disk 硬盘
+USE FDD 使用者<br>
+Exit 退出，出口</p>
+<pre><code>					Sava Changes and Exit             保存更改并退出
+					Discard Changes and Exit         放弃更改并退出
+					Sava Changes and Reset          保存更改并重置
+					Discard Changes and Reset      不保存更改并重置
+					Reseore Defaults                       恢复默认设置
 </code></pre>
 ]]></content>
     </entry>
