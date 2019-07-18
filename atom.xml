@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://loudashaoye.github.io/</id>
     <title>豪杰的个人博客</title>
-    <updated>2019-07-18T03:39:03.275Z</updated>
+    <updated>2019-07-18T03:42:10.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://loudashaoye.github.io/"/>
     <link rel="self" href="https://loudashaoye.github.io//atom.xml"/>
@@ -16,10 +16,16 @@
         <link href="https://loudashaoye.github.io//post/win-bios-yin-dao-she-zhi">
         </link>
         <updated>2019-07-18T03:34:49.000Z</updated>
-        <content type="html"><![CDATA[<p><strong>台式机+笔记本的bios启动设置<strong><strong>台式机+笔记本的bios启动设置</strong></strong>台式机+笔记本的bios启动设置****台式机+笔记本的bios启动设置</strong></p>
-<p>快捷启动方式：DEL、F1-F12</p>
-<p>主要词汇：
-Device 装置</p>
+        <content type="html"><![CDATA[<pre><code>                                                    **台式机+笔记本的bios启动设置**
+
+								快捷启动方式：DEL、F1-F12
+
+								主要词汇：
+											Device 装置
+											Priority 优先权
+
+											St Boot Dervice 设置引导装置
+											Advanced Bios Features 高级基础输入输出系统特性设置</code></pre>
 ]]></content>
     </entry>
     <entry>
