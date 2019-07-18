@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://loudashaoye.github.io/</id>
     <title>豪杰的个人博客</title>
-    <updated>2019-07-18T03:52:42.061Z</updated>
+    <updated>2019-07-18T03:54:38.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://loudashaoye.github.io/"/>
     <link rel="self" href="https://loudashaoye.github.io//atom.xml"/>
@@ -10,4 +10,58 @@
     <logo>https://loudashaoye.github.io//images/avatar.png</logo>
     <icon>https://loudashaoye.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, 豪杰的个人博客</rights>
+    <entry>
+        <title type="html"><![CDATA[Vue]]></title>
+        <id>https://loudashaoye.github.io//post/vue</id>
+        <link href="https://loudashaoye.github.io//post/vue">
+        </link>
+        <updated>2019-07-18T03:54:31.000Z</updated>
+        <content type="html"><![CDATA[<p>每天更新</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jquery]]></title>
+        <id>https://loudashaoye.github.io//post/jquery</id>
+        <link href="https://loudashaoye.github.io//post/jquery">
+        </link>
+        <updated>2019-07-18T03:54:22.000Z</updated>
+        <content type="html"><![CDATA[<p>每天更新</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[H5+Css3]]></title>
+        <id>https://loudashaoye.github.io//post/h5css3</id>
+        <link href="https://loudashaoye.github.io//post/h5css3">
+        </link>
+        <updated>2019-07-18T03:54:11.000Z</updated>
+        <content type="html"><![CDATA[<p>每天更新</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mysql]]></title>
+        <id>https://loudashaoye.github.io//post/mysql</id>
+        <link href="https://loudashaoye.github.io//post/mysql">
+        </link>
+        <updated>2019-07-18T03:53:52.000Z</updated>
+        <content type="html"><![CDATA[<p>每天更新</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript入门笔记]]></title>
+        <id>https://loudashaoye.github.io//post/javascript-ru-men-bi-ji</id>
+        <link href="https://loudashaoye.github.io//post/javascript-ru-men-bi-ji">
+        </link>
+        <updated>2019-07-18T03:53:26.000Z</updated>
+        <content type="html"><![CDATA[<p>每天更新</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java入门笔记]]></title>
+        <id>https://loudashaoye.github.io//post/java-ru-men-bi-ji</id>
+        <link href="https://loudashaoye.github.io//post/java-ru-men-bi-ji">
+        </link>
+        <updated>2019-07-18T03:52:44.000Z</updated>
+        <content type="html"><![CDATA[<p>每天更新</p>
+]]></content>
+    </entry>
 </feed>
