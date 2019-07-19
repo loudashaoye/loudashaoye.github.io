@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://loudashaoye.github.io/</id>
     <title>娄豪杰的个人博客</title>
-    <updated>2019-07-18T12:24:21.395Z</updated>
+    <updated>2019-07-19T01:37:08.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://loudashaoye.github.io/"/>
     <link rel="self" href="https://loudashaoye.github.io//atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://loudashaoye.github.io//images/avatar.png</logo>
     <icon>https://loudashaoye.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, 娄豪杰的个人博客</rights>
+    <entry>
+        <title type="html"><![CDATA[阶段1 - Photoshop CC web入门学习]]></title>
+        <id>https://loudashaoye.github.io//post/jie-duan-1-photoshop-cc-web-ru-men-xue-xi</id>
+        <link href="https://loudashaoye.github.io//post/jie-duan-1-photoshop-cc-web-ru-men-xue-xi">
+        </link>
+        <updated>2019-07-19T01:30:11.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>前言：</strong></p>
+<ul>
+<li>*学前端必须去掌握web图形处理与切片，ps再网页制作中是必不可少的工具，不仅可以用于制作页面广告、装饰，还能通过Web工具设计和优化Web图形或页面元素，以及制作交互式按钮图形和Web照片画廊。</li>
+<li>2019年去郑州面试了份WEB开发岗位的工作，需要项目经理上级考核，想进入前端开发岗位工作第一步就是掌握Ps一些WEB知识，所以好好学。*</li>
+</ul>
+<p><strong>重点：Web图片处理与切片</strong></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[win安装系统 - BIOS引导设置]]></title>
         <id>https://loudashaoye.github.io//post/win-an-zhuang-xi-tong-bios-yin-dao-she-zhi</id>
