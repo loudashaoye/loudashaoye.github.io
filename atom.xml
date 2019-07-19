@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://loudashaoye.github.io/</id>
     <title>娄豪杰的个人博客</title>
-    <updated>2019-07-19T01:43:12.941Z</updated>
+    <updated>2019-07-19T03:51:45.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://loudashaoye.github.io/"/>
     <link rel="self" href="https://loudashaoye.github.io//atom.xml"/>
@@ -11,17 +11,56 @@
     <icon>https://loudashaoye.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, 娄豪杰的个人博客</rights>
     <entry>
-        <title type="html"><![CDATA[阶段1 - Photoshop CC web入门学习]]></title>
+        <title type="html"><![CDATA[Markdown基本语法]]></title>
+        <id>https://loudashaoye.github.io//post/markdown-ji-ben-yu-faa</id>
+        <link href="https://loudashaoye.github.io//post/markdown-ji-ben-yu-faa">
+        </link>
+        <updated>2019-07-19T02:22:54.000Z</updated>
+        <content type="html"><![CDATA[<p><em><strong>Markdown是一种纯文本格式的标记语言。通过简单的标记语法，它可以使普通文本内容具有一定的格式。</strong></em></p>
+<p>相比WYSIWYG编辑器<br>
+优点：<br>
+1、因为是纯文本，所以只要支持Markdown的地方都能获得一样的编辑效果，可以让作者摆脱排版的困扰，专心写作。<br>
+2、操作简单。比如:WYSIWYG编辑时标记个标题，先选中内容，再点击导航栏的标题按钮，选择几级标题。要三个步骤。而Markdown只需要在标题内容前加#即可<br>
+缺点：<br>
+1、需要记一些语法（当然，是很简单。五分钟学会）。<br>
+2、有些平台不支持Markdown编辑模式。</p>
+<h1 id="一-标题">一、标题</h1>
+<p>在想要设置为标题的文字前面加#来表示<br>
+一个#是一级标题，二个#是二级标题，以此类推。支持六级标题。<br>
+示例：<br>
+<img src="https://loudashaoye.github.io//post-images/1563503126297.png" alt=""></p>
+<h1 id="二-字体">二、字体</h1>
+<p><strong>加粗</strong><br>
+要加粗的文字左右分别用两个*号包起来</p>
+<p><em><strong>斜体</strong></em><br>
+<em>要倾斜的文字左右分别用一个号包起来</em></p>
+<p>斜体加粗<br>
+<em><strong>要倾斜和加粗的文字左右分别用三个号包起来</strong></em></p>
+<p>删除线<br>
+<s>要加删除线的文字左右分别用两个</s>  ~~号包起来</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阶段1 - Photoshop CC web图像处理笔记]]></title>
         <id>https://loudashaoye.github.io//post/jie-duan-1-photoshop-cc-web-ru-men-xue-xi</id>
         <link href="https://loudashaoye.github.io//post/jie-duan-1-photoshop-cc-web-ru-men-xue-xi">
         </link>
         <updated>2019-07-19T01:30:11.000Z</updated>
         <content type="html"><![CDATA[<p><strong>前言：</strong></p>
 <ul>
-<li><em>学前端必须去掌握web图形处理与切片，ps再网页制作中是必不可少的工具，不仅可以用于制作页面广告、装饰，还能通过Web工具设计和优化Web图形或页面元素，以及制作交互式按钮图形和Web照片画廊。</em></li>
-<li><em>2019年去郑州面试了份WEB开发岗位的工作，需要项目经理上级考核，想进入前端开发岗位工作第一步考核就是掌握Ps一些WEB知识，所以好好学。</em></li>
+<li><em>学前端必须去掌握web图形处理与切片，ps在网页制作中是必不可少的工具，不仅可以用于制作页面广告、装饰，还能通过Web工具设计和优化Web图形或页面元素，以及制作交互式按钮图形和Web照片画廊。</em></li>
+<li><em>2019年去郑州面试了份WEB开发岗位的工作，需要项目经理上级考核，想进入前端开发岗位工作第一步考核就是掌握Ps一些WEB知识，面试的时候掌握的不老练，做了好大一会，所以好好学，多一项技能就多一项自己的特长。</em></li>
 </ul>
-<p><strong>重点：Web图片处理与切片</strong></p>
+<p><strong>重点：Web图片处理与切片学习如下：</strong><br>
+<code>需要掌握快捷工具：</code></p>
+<ul>
+<li><em>移动工具、矩形选框工具、魔法棒工具、切片工具、吸管工具、标尺工具、油漆桶工具、文字工具、辅助线工具、抓手工具</em></li>
+</ul>
+<ol>
+<li>主要测与logo的大小测量切图</li>
+<li>颜色的拾取<br>
+<a href = "https://www.baidu.com">百度</a></li>
+</ol>
 ]]></content>
     </entry>
     <entry>
@@ -63,51 +102,6 @@
         <link href="https://loudashaoye.github.io//post/vue">
         </link>
         <updated>2019-07-18T03:54:31.000Z</updated>
-        <content type="html"><![CDATA[<p>每天更新</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jquery]]></title>
-        <id>https://loudashaoye.github.io//post/jquery</id>
-        <link href="https://loudashaoye.github.io//post/jquery">
-        </link>
-        <updated>2019-07-18T03:54:22.000Z</updated>
-        <content type="html"><![CDATA[<p>每天更新</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[H5+Css3]]></title>
-        <id>https://loudashaoye.github.io//post/h5css3</id>
-        <link href="https://loudashaoye.github.io//post/h5css3">
-        </link>
-        <updated>2019-07-18T03:54:11.000Z</updated>
-        <content type="html"><![CDATA[<p>每天更新</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mysql]]></title>
-        <id>https://loudashaoye.github.io//post/mysql</id>
-        <link href="https://loudashaoye.github.io//post/mysql">
-        </link>
-        <updated>2019-07-18T03:53:52.000Z</updated>
-        <content type="html"><![CDATA[<p>每天更新</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript入门笔记]]></title>
-        <id>https://loudashaoye.github.io//post/javascript-ru-men-bi-ji</id>
-        <link href="https://loudashaoye.github.io//post/javascript-ru-men-bi-ji">
-        </link>
-        <updated>2019-07-18T03:53:26.000Z</updated>
-        <content type="html"><![CDATA[<p>每天更新</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Java入门笔记]]></title>
-        <id>https://loudashaoye.github.io//post/java-ru-men-bi-ji</id>
-        <link href="https://loudashaoye.github.io//post/java-ru-men-bi-ji">
-        </link>
-        <updated>2019-07-18T03:52:44.000Z</updated>
         <content type="html"><![CDATA[<p>每天更新</p>
 ]]></content>
     </entry>
