@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://loudashaoye.github.io/</id>
     <title>娄豪杰的个人博客</title>
-    <updated>2019-07-19T14:26:28.626Z</updated>
+    <updated>2019-07-19T14:29:35.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://loudashaoye.github.io/"/>
     <link rel="self" href="https://loudashaoye.github.io//atom.xml"/>
@@ -15,8 +15,34 @@
         <id>https://loudashaoye.github.io//post/jie-duan-er-htmlcss-ji-ben-yu-fa-ji-chu-bi-ji</id>
         <link href="https://loudashaoye.github.io//post/jie-duan-er-htmlcss-ji-ben-yu-fa-ji-chu-bi-ji">
         </link>
-        <updated>2019-07-19T14:25:14.000Z</updated>
+        <updated>2019-07-19T14:15:14.000Z</updated>
         <content type="html"><![CDATA[<p>明天更新...</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阶段1 - Photoshop CC web图像处理笔记]]></title>
+        <id>https://loudashaoye.github.io//post/jie-duan-1-photoshop-cc-web-ru-men-xue-xi</id>
+        <link href="https://loudashaoye.github.io//post/jie-duan-1-photoshop-cc-web-ru-men-xue-xi">
+        </link>
+        <updated>2019-07-19T01:30:11.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>前言：</strong></p>
+<ul>
+<li><em>学前端必须去掌握web图形处理与切片，ps在网页制作中是必不可少的工具，不仅可以用于制作页面广告、装饰，还能通过Web工具设计和优化Web图形或页面元素，以及制作交互式按钮图形和Web照片画廊。</em></li>
+<li><em>2019年去郑州面试了份WEB开发岗位的工作，需要项目经理上级考核，想进入前端开发岗位工作第一步考核就是掌握Ps一些WEB知识，面试的时候掌握的不老练，做了好大一会，所以好好学，多一项技能就多一项自己的特长。</em></li>
+</ul>
+<p><strong>重点：Web图片处理与切片学习如下：</strong><br>
+<code>需要掌握快捷工具：</code></p>
+<ul>
+<li><em>移动工具、矩形选框工具、魔法棒工具、切片工具、吸管工具、标尺工具、油漆桶工具、文字工具、辅助线工具、抓手工具</em></li>
+</ul>
+<ol>
+<li>主要测与logo的大小测量切图</li>
+<li>颜色的拾取</li>
+<li>切割图片</li>
+</ol>
+<p><strong>复习完毕，明天继续学习！</strong><br>
+<strong>复习完毕，明天继续学习！</strong><br>
+<strong>复习完毕，明天继续学习！</strong></p>
 ]]></content>
     </entry>
     <entry>
@@ -24,7 +50,7 @@
         <id>https://loudashaoye.github.io//post/markdown-ji-ben-yu-faa</id>
         <link href="https://loudashaoye.github.io//post/markdown-ji-ben-yu-faa">
         </link>
-        <updated>2019-07-19T02:22:54.000Z</updated>
+        <updated>2019-07-18T04:22:54.000Z</updated>
         <content type="html"><![CDATA[<p><em><strong>Markdown是一种纯文本格式的标记语言。通过简单的标记语法，它可以使普通文本内容具有一定的格式。</strong></em></p>
 <p>相比WYSIWYG编辑器<br>
 优点：<br>
@@ -169,32 +195,6 @@ n个...<br>
 <img src="https://loudashaoye.github.io//post-images/1563512894960.png" alt=""></p>
 <h1 id="十-流程图">十、流程图</h1>
 <p><img src="https://loudashaoye.github.io//post-images/1563512906060.png" alt=""></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阶段1 - Photoshop CC web图像处理笔记]]></title>
-        <id>https://loudashaoye.github.io//post/jie-duan-1-photoshop-cc-web-ru-men-xue-xi</id>
-        <link href="https://loudashaoye.github.io//post/jie-duan-1-photoshop-cc-web-ru-men-xue-xi">
-        </link>
-        <updated>2019-07-19T01:30:11.000Z</updated>
-        <content type="html"><![CDATA[<p><strong>前言：</strong></p>
-<ul>
-<li><em>学前端必须去掌握web图形处理与切片，ps在网页制作中是必不可少的工具，不仅可以用于制作页面广告、装饰，还能通过Web工具设计和优化Web图形或页面元素，以及制作交互式按钮图形和Web照片画廊。</em></li>
-<li><em>2019年去郑州面试了份WEB开发岗位的工作，需要项目经理上级考核，想进入前端开发岗位工作第一步考核就是掌握Ps一些WEB知识，面试的时候掌握的不老练，做了好大一会，所以好好学，多一项技能就多一项自己的特长。</em></li>
-</ul>
-<p><strong>重点：Web图片处理与切片学习如下：</strong><br>
-<code>需要掌握快捷工具：</code></p>
-<ul>
-<li><em>移动工具、矩形选框工具、魔法棒工具、切片工具、吸管工具、标尺工具、油漆桶工具、文字工具、辅助线工具、抓手工具</em></li>
-</ul>
-<ol>
-<li>主要测与logo的大小测量切图</li>
-<li>颜色的拾取</li>
-<li>切割图片</li>
-</ol>
-<p><strong>复习完毕，明天继续学习！</strong><br>
-<strong>复习完毕，明天继续学习！</strong><br>
-<strong>复习完毕，明天继续学习！</strong></p>
 ]]></content>
     </entry>
     <entry>
