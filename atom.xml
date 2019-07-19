@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://loudashaoye.github.io/</id>
     <title>娄豪杰的个人博客</title>
-    <updated>2019-07-19T04:40:22.187Z</updated>
+    <updated>2019-07-19T05:08:48.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://loudashaoye.github.io/"/>
     <link rel="self" href="https://loudashaoye.github.io//atom.xml"/>
@@ -99,10 +99,67 @@ n个...<br>
 </li>
 <li>
 <p>一级无序列表</p>
-<pre><code>  	 二级无序列表内容
-</code></pre>
+<ul>
+<li>二级无序列表</li>
+<li>二级无序列表</li>
+<li>二级无序列表</li>
+</ul>
 </li>
 </ul>
+<ol>
+<li>
+<p>一级有序列表</p>
+<ol>
+<li>二级有序列表</li>
+<li>二级有序列表</li>
+<li>二级有序列表</li>
+</ol>
+</li>
+</ol>
+<h1 id="八-表格">八、表格</h1>
+<p>语法：<br>
+<img src="https://loudashaoye.github.io//post-images/1563512358372.png" alt=""><br>
+<img src="https://loudashaoye.github.io//post-images/1563512370322.png" alt=""></p>
+<table>
+<thead>
+<tr>
+<th>姓名</th>
+<th style="text-align:center">技能</th>
+<th style="text-align:right">排行</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>张飞</td>
+<td style="text-align:center">精通java</td>
+<td style="text-align:right">1</td>
+</tr>
+<tr>
+<td>刘备</td>
+<td style="text-align:center">精通php</td>
+<td style="text-align:right">2</td>
+</tr>
+</tbody>
+</table>
+<h1 id="九-代码">九、代码</h1>
+<p>语法：<br>
+单行代码：代码之间分别用一个反引号包起来<br>
+<img src="https://loudashaoye.github.io//post-images/1563512833771.png" alt=""><br>
+代码块：代码之间分别用三个反引号包起来，且两边的反引号单独占一行<br>
+<img src="https://loudashaoye.github.io//post-images/1563512848957.png" alt=""><br>
+<img src="https://loudashaoye.github.io//post-images/1563512861504.png" alt=""><br>
+示例：</p>
+<p>单行代码<br>
+<img src="https://loudashaoye.github.io//post-images/1563512872763.png" alt=""><br>
+代码块<br>
+<img src="https://loudashaoye.github.io//post-images/1563512882114.png" alt=""><br>
+效果如下：</p>
+<p>单行代码</p>
+<p>create database hero;</p>
+<p>代码块<br>
+<img src="https://loudashaoye.github.io//post-images/1563512894960.png" alt=""></p>
+<h1 id="十-流程图">十、流程图</h1>
+<p><img src="https://loudashaoye.github.io//post-images/1563512906060.png" alt=""></p>
 ]]></content>
     </entry>
     <entry>
