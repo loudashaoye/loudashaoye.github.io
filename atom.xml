@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://loudashaoye.github.io/</id>
     <title>娄豪杰的个人博客</title>
-    <updated>2019-07-19T14:30:39.234Z</updated>
+    <updated>2019-07-20T06:12:29.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://loudashaoye.github.io/"/>
     <link rel="self" href="https://loudashaoye.github.io//atom.xml"/>
@@ -198,7 +198,7 @@ n个...<br>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[win安装系统 - BIOS引导设置]]></title>
+        <title type="html"><![CDATA[win  PE系统引导设置]]></title>
         <id>https://loudashaoye.github.io//post/win-an-zhuang-xi-tong-bios-yin-dao-she-zhi</id>
         <link href="https://loudashaoye.github.io//post/win-an-zhuang-xi-tong-bios-yin-dao-she-zhi">
         </link>
