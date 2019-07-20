@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://loudashaoye.github.io/</id>
     <title>娄豪杰的个人博客</title>
-    <updated>2019-07-20T06:12:29.353Z</updated>
+    <updated>2019-07-20T13:52:50.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://loudashaoye.github.io/"/>
     <link rel="self" href="https://loudashaoye.github.io//atom.xml"/>
@@ -11,12 +11,31 @@
     <icon>https://loudashaoye.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, 娄豪杰的个人博客</rights>
     <entry>
-        <title type="html"><![CDATA[阶段二-html+css基本语法基础笔记]]></title>
-        <id>https://loudashaoye.github.io//post/jie-duan-er-htmlcss-ji-ben-yu-fa-ji-chu-bi-ji</id>
-        <link href="https://loudashaoye.github.io//post/jie-duan-er-htmlcss-ji-ben-yu-fa-ji-chu-bi-ji">
+        <title type="html"><![CDATA[阶段二-Html5基础]]></title>
+        <id>https://loudashaoye.github.io//post/jie-duan-er-htmlcss-ji-ben-yu-fa-ji-chu-bi</id>
+        <link href="https://loudashaoye.github.io//post/jie-duan-er-htmlcss-ji-ben-yu-fa-ji-chu-bi">
         </link>
         <updated>2019-07-19T14:15:14.000Z</updated>
-        <content type="html"><![CDATA[<p>明天更新...</p>
+        <content type="html"><![CDATA[<p><em><strong>html超文本标记语言还是很好学的，学习的时候注重于语法的灵活使用。<br>
+了解代码其原理，就能做出好的作品。</strong></em></p>
+<p>基础知识点：<br>
+1、行间样式表<br>
+<img src="https://loudashaoye.github.io//post-images/1563630454247.png" alt=""></p>
+<p>2、内部样式表<br>
+<img src="https://loudashaoye.github.io//post-images/1563630511472.png" alt=""></p>
+<p>3、外联样式表<br>
+<img src="https://loudashaoye.github.io//post-images/1563630537371.png" alt=""></p>
+<p>4、边框<br>
+<img src="https://loudashaoye.github.io//post-images/1563630581975.png" alt=""></p>
+<p>5、边框的方向特性<br>
+<img src="https://loudashaoye.github.io//post-images/1563630618240.png" alt=""></p>
+<p>6、边框的练习题<br>
+<img src="https://loudashaoye.github.io//post-images/1563630660485.png" alt=""></p>
+<p>7、背景颜色<br>
+<img src="https://loudashaoye.github.io//post-images/1563630676830.png" alt=""></p>
+<p>8、背景图片<br>
+<img src="https://loudashaoye.github.io//post-images/1563630696560.png" alt=""></p>
+<p>9、背景图平铺</p>
 ]]></content>
     </entry>
     <entry>
@@ -237,6 +256,20 @@ n个...<br>
         </link>
         <updated>2019-07-18T03:54:31.000Z</updated>
         <content type="html"><![CDATA[<p>博客持续完善中...</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[河南省高职组H5交互融媒体设计与制作]]></title>
+        <id>https://loudashaoye.github.io//post/sheng-sai</id>
+        <link href="https://loudashaoye.github.io//post/sheng-sai">
+        </link>
+        <updated>2019-04-30T06:38:05.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="需要掌握学习站点一">需要掌握学习站点一：</h3>
+<p><strong>ps设计工具，需要会掌握其中的切片工具，抠图，颜色拾取。</strong><br>
+推荐视频地址：<br>
+https://www.bilibili.com/video/av11634663?from=search&amp;seid=5288584498453453280<br>
+<img src="https://loudashaoye.github.io//post-images/1563605020561.png" alt=""><br>
+<img src="https://loudashaoye.github.io//post-images/1563605888890.png" alt=""></p>
 ]]></content>
     </entry>
 </feed>
