@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://loudashaoye.github.io/</id>
     <title>娄豪杰的个人博客</title>
-    <updated>2019-07-21T02:51:59.942Z</updated>
+    <updated>2019-07-23T13:18:34.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://loudashaoye.github.io/"/>
     <link rel="self" href="https://loudashaoye.github.io//atom.xml"/>
@@ -11,29 +11,12 @@
     <icon>https://loudashaoye.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, 娄豪杰的个人博客</rights>
     <entry>
-        <title type="html"><![CDATA[Photoshop CC web图像处理笔记]]></title>
-        <id>https://loudashaoye.github.io//post/jie-duan-1-photoshop-cc-web-ru-men-xue-xi</id>
-        <link href="https://loudashaoye.github.io//post/jie-duan-1-photoshop-cc-web-ru-men-xue-xi">
+        <title type="html"><![CDATA[笔记暂时不更新...]]></title>
+        <id>https://loudashaoye.github.io//post/bi-ji-zan-shi-bu-geng-xin</id>
+        <link href="https://loudashaoye.github.io//post/bi-ji-zan-shi-bu-geng-xin">
         </link>
-        <updated>2019-07-19T01:30:11.000Z</updated>
-        <content type="html"><![CDATA[<p><strong>前言：</strong></p>
-<ul>
-<li><em>学前端必须去掌握web图形处理与切片，ps在网页制作中是必不可少的工具，不仅可以用于制作页面广告、装饰，还能通过Web工具设计和优化Web图形或页面元素，以及制作交互式按钮图形和Web照片画廊。</em></li>
-<li><em>2019年去郑州面试了份WEB开发岗位的工作，需要项目经理上级考核，想进入前端开发岗位工作第一步考核就是掌握Ps一些WEB知识，面试的时候掌握的不老练，做了好大一会，所以好好学，多一项技能就多一项自己的特长。</em></li>
-</ul>
-<p><strong>重点：Web图片处理与切片学习如下：</strong><br>
-<code>需要掌握快捷工具：</code></p>
-<ul>
-<li><em>移动工具、矩形选框工具、魔法棒工具、切片工具、吸管工具、标尺工具、油漆桶工具、文字工具、辅助线工具、抓手工具</em></li>
-</ul>
-<ol>
-<li>主要测与logo的大小测量切图</li>
-<li>颜色的拾取</li>
-<li>切割图片</li>
-</ol>
-<p><strong>复习完毕，明天继续学习！</strong><br>
-<strong>复习完毕，明天继续学习！</strong><br>
-<strong>复习完毕，明天继续学习！</strong></p>
+        <updated>2019-07-23T13:17:42.000Z</updated>
+        <content type="html"><![CDATA[<p>全部整理总结完会发布。</p>
 ]]></content>
     </entry>
     <entry>
@@ -186,62 +169,6 @@ n个...<br>
 <img src="https://loudashaoye.github.io//post-images/1563512894960.png" alt=""></p>
 <h1 id="十-流程图">十、流程图</h1>
 <p><img src="https://loudashaoye.github.io//post-images/1563512906060.png" alt=""></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[win  PE系统引导设置]]></title>
-        <id>https://loudashaoye.github.io//post/win-an-zhuang-xi-tong-bios-yin-dao-she-zhi</id>
-        <link href="https://loudashaoye.github.io//post/win-an-zhuang-xi-tong-bios-yin-dao-she-zhi">
-        </link>
-        <updated>2019-07-18T03:59:27.000Z</updated>
-        <content type="html"><![CDATA[<p>windows系统安装教程请咨询up<br>
-<code>联系qq： 851681631</code></p>
-<ul>
-<li>注意：<code>闲人勿扰</code>。</li>
-</ul>
-<p><strong>BOIS引导设置</strong></p>
-<pre><code>1、台式机+笔记本USE启动设置
-     快捷方式：f1-f12   \   del   自行测试，不懂问up
-</code></pre>
-<pre><code>2、BIOS学习常用词汇				
-	Device                 装置                                 						
-	Priority               优先权					
-	St Boot Drvice         设置引导装置         						
-	Advanced Bios Features 高级基础输入输出系统特性设置					
-	First Boot Device      第一启动设备     				
-	Hard Disk              硬盘				
-	USE FDD                使用者                             				
-	Exit                   退出，出口			
-	Sava Changes and Exit           保存更改并退出						
-	Sava Changes and Exit           保存更改并退出
-	Discard Changes and Exit        放弃更改并退出
-	Sava Changes and Reset          保存更改并重置
-	Discard Changes and Reset       不保存更改并重置
-	Reseore Defaults                恢复默认设置
-</code></pre>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue]]></title>
-        <id>https://loudashaoye.github.io//post/vue</id>
-        <link href="https://loudashaoye.github.io//post/vue">
-        </link>
-        <updated>2019-07-18T03:54:31.000Z</updated>
-        <content type="html"><![CDATA[<p>博客持续完善中...</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[河南省高职组H5交互融媒体设计与制作]]></title>
-        <id>https://loudashaoye.github.io//post/sheng-sai</id>
-        <link href="https://loudashaoye.github.io//post/sheng-sai">
-        </link>
-        <updated>2019-04-30T06:38:05.000Z</updated>
-        <content type="html"><![CDATA[<h3 id="需要掌握学习站点一">需要掌握学习站点一：</h3>
-<p><strong>ps设计工具，需要会掌握其中的切片工具，抠图，颜色拾取。</strong><br>
-推荐视频地址：<br>
-https://www.bilibili.com/video/av11634663?from=search&amp;seid=5288584498453453280<br>
-<img src="https://loudashaoye.github.io//post-images/1563605020561.png" alt=""><br>
-<img src="https://loudashaoye.github.io//post-images/1563605888890.png" alt=""></p>
 ]]></content>
     </entry>
 </feed>
