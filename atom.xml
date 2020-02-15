@@ -2,18 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://loudashaoye.github.io/</id>
     <title>阿豪博客</title>
-    <updated>2019-12-24T13:03:48.725Z</updated>
+    <updated>2020-02-15T05:38:58.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://loudashaoye.github.io/"/>
-    <link rel="self" href="https://loudashaoye.github.io//atom.xml"/>
+    <link rel="self" href="https://loudashaoye.github.io/atom.xml"/>
     <subtitle>失望让人清醒</subtitle>
-    <logo>https://loudashaoye.github.io//images/avatar.png</logo>
-    <icon>https://loudashaoye.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, 阿豪博客</rights>
+    <logo>https://loudashaoye.github.io/images/avatar.png</logo>
+    <icon>https://loudashaoye.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, 阿豪博客</rights>
+    <entry>
+        <title type="html"><![CDATA[前端开发工具vscode插件配置]]></title>
+        <id>https://loudashaoye.github.io/post/qian-duan-kai-fa-gong-ju-vscode-cha-jian-pei-zhi/</id>
+        <link href="https://loudashaoye.github.io/post/qian-duan-kai-fa-gong-ju-vscode-cha-jian-pei-zhi/">
+        </link>
+        <updated>2020-02-15T05:38:17.000Z</updated>
+        <content type="html"><![CDATA[<p>常用插件推荐：https://www.imooc.com/video/18984</p>
+<p>VSCODE颜色主题可以通过上下键进行筛选预览<br>
+颜色主题可以在插件中搜索 theme</p>
+<p>1、菜单栏中文汉化插件	Chinese (Simplified)<br>
+2、文件图标主题		vscode-icons<br>
+3、界面主题		Atom One Dark Theme<br>
+4、html与css关联		CSS Peek<br>
+5、代码格式化		Prettier - Code formatter<br>
+6、图标集		Icon Fonts		小白不建议使用<br>
+7、自动修改标签		Auto Rename Tag<br>
+8、HTML模板		HTML Boilerplate<br>
+9、颜色提示		Color Info		小白不建议使用<br>
+10、自动闭合标签		Auto Close Tag<br>
+11、HTML CSS Support	html中css class的只能提示</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端开发VSCODE插件配置]]></title>
+        <id>https://loudashaoye.github.io/post/qian-duan-kai-fa-vscode-cha-jian-pei-zhi/</id>
+        <link href="https://loudashaoye.github.io/post/qian-duan-kai-fa-vscode-cha-jian-pei-zhi/">
+        </link>
+        <updated>2020-02-15T05:28:46.000Z</updated>
+        <content type="html"><![CDATA[<p>常用插件推荐：视频教程https://www.imooc.com/video/18984</p>
+<p>VSCODE颜色主题可以通过上下键进行筛选预览<br>
+颜色主题可以在插件中搜索 theme</p>
+<p>01、菜单栏中文汉化插件	Chinese (Simplified)<br>
+02、文件图标主题		vscode-icons<br>
+03、界面主题		Atom One Dark Theme<br>
+04、html与css关联		CSS Peek<br>
+05、代码格式化		Prettier - Code formatter<br>
+06、图标集		Icon Fonts		新手不习惯不建议使用<br>
+07、自动修改标签		Auto Rename Tag<br>
+08、HTML模板		HTML Boilerplate<br>
+09、颜色提示		Color Info		新手不习惯不建议使用<br>
+10、自动闭合标签		Auto Close Tag<br>
+11、HTML CSS Support	html中css class的只能提示</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[局域网]]></title>
-        <id>https://loudashaoye.github.io//post/ju-yu-wang</id>
-        <link href="https://loudashaoye.github.io//post/ju-yu-wang">
+        <id>https://loudashaoye.github.io/post/ju-yu-wang/</id>
+        <link href="https://loudashaoye.github.io/post/ju-yu-wang/">
         </link>
         <updated>2019-09-05T04:52:30.000Z</updated>
         <content type="html"><![CDATA[<p>规范统一发出因此</p>
@@ -21,8 +65,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[笔记暂时不更新...]]></title>
-        <id>https://loudashaoye.github.io//post/bi-ji-zan-shi-bu-geng-xin</id>
-        <link href="https://loudashaoye.github.io//post/bi-ji-zan-shi-bu-geng-xin">
+        <id>https://loudashaoye.github.io/post/bi-ji-zan-shi-bu-geng-xin/</id>
+        <link href="https://loudashaoye.github.io/post/bi-ji-zan-shi-bu-geng-xin/">
         </link>
         <updated>2019-07-23T13:17:42.000Z</updated>
         <content type="html"><![CDATA[<p>全部整理总结完会发布。</p>
@@ -30,8 +74,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Photoshop CC web图像处理笔记]]></title>
-        <id>https://loudashaoye.github.io//post/jie-duan-1-photoshop-cc-web-ru-men-xue-xi</id>
-        <link href="https://loudashaoye.github.io//post/jie-duan-1-photoshop-cc-web-ru-men-xue-xi">
+        <id>https://loudashaoye.github.io/post/jie-duan-1-photoshop-cc-web-ru-men-xue-xi/</id>
+        <link href="https://loudashaoye.github.io/post/jie-duan-1-photoshop-cc-web-ru-men-xue-xi/">
         </link>
         <updated>2019-07-19T01:30:11.000Z</updated>
         <content type="html"><![CDATA[<p><strong>前言：</strong></p>
@@ -56,8 +100,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[win  PE系统引导设置]]></title>
-        <id>https://loudashaoye.github.io//post/win-an-zhuang-xi-tong-bios-yin-dao-she-zhi</id>
-        <link href="https://loudashaoye.github.io//post/win-an-zhuang-xi-tong-bios-yin-dao-she-zhi">
+        <id>https://loudashaoye.github.io/post/win-an-zhuang-xi-tong-bios-yin-dao-she-zhi/</id>
+        <link href="https://loudashaoye.github.io/post/win-an-zhuang-xi-tong-bios-yin-dao-she-zhi/">
         </link>
         <updated>2019-07-18T03:59:27.000Z</updated>
         <content type="html"><![CDATA[<p>windows系统安装教程请咨询up<br>
