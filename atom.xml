@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://loudashaoye.github.io/</id>
     <title>阿豪博客</title>
-    <updated>2020-02-20T12:06:49.828Z</updated>
+    <updated>2020-02-20T12:08:23.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://loudashaoye.github.io/"/>
     <link rel="self" href="https://loudashaoye.github.io/atom.xml"/>
@@ -83,6 +83,152 @@
         <link href="https://loudashaoye.github.io/post/markdown-ji-ben-yu-faa/">
         </link>
         <updated>2019-07-18T04:22:54.000Z</updated>
+        <summary type="html"><![CDATA[<p><em><strong>Markdown是一种纯文本格式的标记语言。通过简单的标记语法，它可以使普通文本内容具有一定的格式。</strong></em></p>
+<p>相比WYSIWYG编辑器<br>
+优点：<br>
+1、因为是纯文本，所以只要支持Markdown的地方都能获得一样的编辑效果，可以让作者摆脱排版的困扰，专心写作。<br>
+2、操作简单。比如:WYSIWYG编辑时标记个标题，先选中内容，再点击导航栏的标题按钮，选择几级标题。要三个步骤。而Markdown只需要在标题内容前加#即可<br>
+缺点：<br>
+1、需要记一些语法（当然，是很简单。五分钟学会）。<br>
+2、有些平台不支持Markdown编辑模式。</p>
+<h1 id="一-标题">一、标题</h1>
+<p>在想要设置为标题的文字前面加#来表示<br>
+一个#是一级标题，二个#是二级标题，以此类推。支持六级标题。<br>
+示例：<br>
+<img src="https://loudashaoye.github.io//post-images/1563503126297.png" alt="" loading="lazy"></p>
+<h1 id="二-字体">二、字体</h1>
+<p><strong>加粗</strong><br>
+要加粗的文字左右分别用两个*号包起来</p>
+<p><em><strong>斜体</strong></em><br>
+<em>要倾斜的文字左右分别用一个号包起来</em></p>
+<p>斜体加粗<br>
+<em><strong>要倾斜和加粗的文字左右分别用三个号包起来</strong></em></p>
+<p>删除线<br>
+<s>要加删除线的文字左右分别用两个</s>  ~~号包起来</p>
+<h1 id="三-引用">三、引用</h1>
+<p>在引用的文字前加&gt;即可。引用也可以嵌套，如加两个&gt;&gt;三个&gt;&gt;&gt;<br>
+n个...<br>
+貌似可以一直加下去，但没神马卵用</p>
+<blockquote>
+<p>这是引用的内容</p>
+<blockquote>
+<blockquote>
+<p>这是引用的内容</p>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>这是引用的内容</p>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+<h1 id="四-分割线">四、分割线</h1>
+<p>三个或者三个以上的 - 或者 * 都可以。<br>
+示例：<br>
+<img src="https://loudashaoye.github.io//post-images/1563508475512.png" alt="" loading="lazy"></p>
+<h1 id="五-图片">五、图片</h1>
+<p>语法：<br>
+<img src="https://loudashaoye.github.io//post-images/1563508558347.png" alt="" loading="lazy"><br>
+示例：<br>
+<img src="https://loudashaoye.github.io//post-images/1563508566695.png" alt="" loading="lazy"><br>
+效果如下：<br>
+<img src="https://loudashaoye.github.io//post-images/1563508577580.png" alt="" loading="lazy"><br>
+<strong>上传本地图片直接点击导航栏的图片标志，选择图片即可</strong></p>
+<h1 id="六-超链接">六、超链接</h1>
+<p>语法：<br>
+<img src="https://loudashaoye.github.io//post-images/1563508654986.png" alt="" loading="lazy"><br>
+示例：<br>
+<img src="https://loudashaoye.github.io//post-images/1563508674773.png" alt="" loading="lazy"><br>
+如果想要在新页面中打开的话可以用html语言的a标签代替。<br>
+<img src="https://loudashaoye.github.io//post-images/1563508710203.png" alt="" loading="lazy"></p>
+<h1 id=""></h1>
+<h1 id="七-列表">七、列表</h1>
+<ul>
+<li>
+<p>无序列表<br>
+语法：<br>
+无序列表用 - + * 任何一种都可以<br>
+<img src="https://loudashaoye.github.io//post-images/1563508755133.png" alt="" loading="lazy"><br>
+<img src="https://loudashaoye.github.io//post-images/1563508769207.png" alt="" loading="lazy"></p>
+</li>
+<li>
+<p>有序列表<br>
+语法：<br>
+数字加点<br>
+<img src="https://loudashaoye.github.io//post-images/1563508802149.png" alt="" loading="lazy"><br>
+<img src="https://loudashaoye.github.io//post-images/1563508811813.png" alt="" loading="lazy"></p>
+</li>
+<li>
+<p>列表嵌套<br>
+<strong>上一级和下一级之间敲三个空格即可</strong></p>
+</li>
+<li>
+<p>一级无序列表</p>
+<ul>
+<li>二级无序列表</li>
+<li>二级无序列表</li>
+<li>二级无序列表</li>
+</ul>
+</li>
+</ul>
+<ol>
+<li>
+<p>一级有序列表</p>
+<ol>
+<li>二级有序列表</li>
+<li>二级有序列表</li>
+<li>二级有序列表</li>
+</ol>
+</li>
+</ol>
+<h1 id="八-表格">八、表格</h1>
+<p>语法：<br>
+<img src="https://loudashaoye.github.io//post-images/1563512358372.png" alt="" loading="lazy"><br>
+<img src="https://loudashaoye.github.io//post-images/1563512370322.png" alt="" loading="lazy"></p>
+<table>
+<thead>
+<tr>
+<th>姓名</th>
+<th style="text-align:center">技能</th>
+<th style="text-align:right">排行</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>张飞</td>
+<td style="text-align:center">精通java</td>
+<td style="text-align:right">1</td>
+</tr>
+<tr>
+<td>刘备</td>
+<td style="text-align:center">精通php</td>
+<td style="text-align:right">2</td>
+</tr>
+</tbody>
+</table>
+<h1 id="九-代码">九、代码</h1>
+<p>语法：<br>
+单行代码：代码之间分别用一个反引号包起来<br>
+<img src="https://loudashaoye.github.io//post-images/1563512833771.png" alt="" loading="lazy"><br>
+代码块：代码之间分别用三个反引号包起来，且两边的反引号单独占一行<br>
+<img src="https://loudashaoye.github.io//post-images/1563512848957.png" alt="" loading="lazy"><br>
+<img src="https://loudashaoye.github.io//post-images/1563512861504.png" alt="" loading="lazy"><br>
+示例：</p>
+<p>单行代码<br>
+<img src="https://loudashaoye.github.io//post-images/1563512872763.png" alt="" loading="lazy"><br>
+代码块<br>
+<img src="https://loudashaoye.github.io//post-images/1563512882114.png" alt="" loading="lazy"><br>
+效果如下：</p>
+<p>单行代码</p>
+<p>create database hero;</p>
+<p>代码块<br>
+<img src="https://loudashaoye.github.io//post-images/1563512894960.png" alt="" loading="lazy"></p>
+<h1 id="十-流程图">十、流程图</h1>
+<figure data-type="image" tabindex="1"><img src="https://loudashaoye.github.io//post-images/1563512906060.png" alt="" loading="lazy"></figure>
+<p>end</p>
+]]></summary>
         <content type="html"><![CDATA[<p><em><strong>Markdown是一种纯文本格式的标记语言。通过简单的标记语法，它可以使普通文本内容具有一定的格式。</strong></em></p>
 <p>相比WYSIWYG编辑器<br>
 优点：<br>
@@ -227,6 +373,10 @@ n个...<br>
 <img src="https://loudashaoye.github.io//post-images/1563512894960.png" alt="" loading="lazy"></p>
 <h1 id="十-流程图">十、流程图</h1>
 <figure data-type="image" tabindex="1"><img src="https://loudashaoye.github.io//post-images/1563512906060.png" alt="" loading="lazy"></figure>
+<p>end</p>
+<!-- more -->
+<!-- more -->
+<!-- more -->
 ]]></content>
     </entry>
     <entry>
