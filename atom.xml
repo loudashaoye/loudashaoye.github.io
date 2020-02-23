@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://louhaojie99.github.io/</id>
+    <id>https://loudashaoye.github.io/</id>
     <title>阿豪博客</title>
-    <updated>2020-02-22T12:53:34.195Z</updated>
+    <updated>2020-02-23T01:57:21.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://louhaojie99.github.io/"/>
-    <link rel="self" href="https://louhaojie99.github.io/atom.xml"/>
+    <link rel="alternate" href="https://loudashaoye.github.io/"/>
+    <link rel="self" href="https://loudashaoye.github.io/atom.xml"/>
     <subtitle>失望让人清醒</subtitle>
-    <logo>https://louhaojie99.github.io/images/avatar.png</logo>
-    <icon>https://louhaojie99.github.io/favicon.ico</icon>
+    <logo>https://loudashaoye.github.io/images/avatar.png</logo>
+    <icon>https://loudashaoye.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 阿豪博客</rights>
     <entry>
         <title type="html"><![CDATA[前端开发工具vscode插件配置]]></title>
-        <id>https://louhaojie99.github.io/post/qian-duan-kai-fa-gong-ju-vscode-cha-jian-pei-zhi/</id>
-        <link href="https://louhaojie99.github.io/post/qian-duan-kai-fa-gong-ju-vscode-cha-jian-pei-zhi/">
+        <id>https://loudashaoye.github.io/post/qian-duan-kai-fa-gong-ju-vscode-cha-jian-pei-zhi/</id>
+        <link href="https://loudashaoye.github.io/post/qian-duan-kai-fa-gong-ju-vscode-cha-jian-pei-zhi/">
         </link>
         <updated>2020-02-15T05:38:17.000Z</updated>
         <content type="html"><![CDATA[<p>常用插件推荐：https://www.imooc.com/video/18984</p>
@@ -34,8 +34,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[局域网部署]]></title>
-        <id>https://louhaojie99.github.io/post/ju-yu-wang/</id>
-        <link href="https://louhaojie99.github.io/post/ju-yu-wang/">
+        <id>https://loudashaoye.github.io/post/ju-yu-wang/</id>
+        <link href="https://loudashaoye.github.io/post/ju-yu-wang/">
         </link>
         <updated>2019-09-05T04:52:30.000Z</updated>
         <content type="html"><![CDATA[<p>部署条件：办公电脑在同一网络环境之下，网络状态设置为家庭网络，创建家庭网络共享局域网，家庭成员假如即可。</p>
@@ -43,8 +43,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[笔记暂时不更新...]]></title>
-        <id>https://louhaojie99.github.io/post/bi-ji-zan-shi-bu-geng-xin/</id>
-        <link href="https://louhaojie99.github.io/post/bi-ji-zan-shi-bu-geng-xin/">
+        <id>https://loudashaoye.github.io/post/bi-ji-zan-shi-bu-geng-xin/</id>
+        <link href="https://loudashaoye.github.io/post/bi-ji-zan-shi-bu-geng-xin/">
         </link>
         <updated>2019-07-23T13:17:42.000Z</updated>
         <content type="html"><![CDATA[<p>全部整理总结完会发布。</p>
@@ -52,8 +52,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Markdown基本语法]]></title>
-        <id>https://louhaojie99.github.io/post/markdown-ji-ben-yu-faa/</id>
-        <link href="https://louhaojie99.github.io/post/markdown-ji-ben-yu-faa/">
+        <id>https://loudashaoye.github.io/post/markdown-ji-ben-yu-faa/</id>
+        <link href="https://loudashaoye.github.io/post/markdown-ji-ben-yu-faa/">
         </link>
         <updated>2019-07-18T04:22:54.000Z</updated>
         <content type="html"><![CDATA[<p><em><strong>Markdown是一种纯文本格式的标记语言。通过简单的标记语法，它可以使普通文本内容具有一定的格式。</strong></em></p>
@@ -68,7 +68,7 @@
 <p>在想要设置为标题的文字前面加#来表示<br>
 一个#是一级标题，二个#是二级标题，以此类推。支持六级标题。<br>
 示例：<br>
-<img src="https://louhaojie99.github.io//post-images/1563503126297.png" alt="" loading="lazy"></p>
+<img src="https://loudashaoye.github.io//post-images/1563503126297.png" alt="" loading="lazy"></p>
 <h1 id="二-字体">二、字体</h1>
 <p><strong>加粗</strong><br>
 要加粗的文字左右分别用两个*号包起来</p>
@@ -100,22 +100,22 @@ n个...<br>
 <h1 id="四-分割线">四、分割线</h1>
 <p>三个或者三个以上的 - 或者 * 都可以。<br>
 示例：<br>
-<img src="https://louhaojie99.github.io//post-images/1563508475512.png" alt="" loading="lazy"></p>
+<img src="https://loudashaoye.github.io//post-images/1563508475512.png" alt="" loading="lazy"></p>
 <h1 id="五-图片">五、图片</h1>
 <p>语法：<br>
-<img src="https://louhaojie99.github.io//post-images/1563508558347.png" alt="" loading="lazy"><br>
+<img src="https://loudashaoye.github.io//post-images/1563508558347.png" alt="" loading="lazy"><br>
 示例：<br>
-<img src="https://louhaojie99.github.io//post-images/1563508566695.png" alt="" loading="lazy"><br>
+<img src="https://loudashaoye.github.io//post-images/1563508566695.png" alt="" loading="lazy"><br>
 效果如下：<br>
-<img src="https://louhaojie99.github.io//post-images/1563508577580.png" alt="" loading="lazy"><br>
+<img src="https://loudashaoye.github.io//post-images/1563508577580.png" alt="" loading="lazy"><br>
 <strong>上传本地图片直接点击导航栏的图片标志，选择图片即可</strong></p>
 <h1 id="六-超链接">六、超链接</h1>
 <p>语法：<br>
-<img src="https://louhaojie99.github.io//post-images/1563508654986.png" alt="" loading="lazy"><br>
+<img src="https://loudashaoye.github.io//post-images/1563508654986.png" alt="" loading="lazy"><br>
 示例：<br>
-<img src="https://louhaojie99.github.io//post-images/1563508674773.png" alt="" loading="lazy"><br>
+<img src="https://loudashaoye.github.io//post-images/1563508674773.png" alt="" loading="lazy"><br>
 如果想要在新页面中打开的话可以用html语言的a标签代替。<br>
-<img src="https://louhaojie99.github.io//post-images/1563508710203.png" alt="" loading="lazy"></p>
+<img src="https://loudashaoye.github.io//post-images/1563508710203.png" alt="" loading="lazy"></p>
 <h1 id=""></h1>
 <h1 id="七-列表">七、列表</h1>
 <ul>
@@ -123,15 +123,15 @@ n个...<br>
 <p>无序列表<br>
 语法：<br>
 无序列表用 - + * 任何一种都可以<br>
-<img src="https://louhaojie99.github.io//post-images/1563508755133.png" alt="" loading="lazy"><br>
-<img src="https://louhaojie99.github.io//post-images/1563508769207.png" alt="" loading="lazy"></p>
+<img src="https://loudashaoye.github.io//post-images/1563508755133.png" alt="" loading="lazy"><br>
+<img src="https://loudashaoye.github.io//post-images/1563508769207.png" alt="" loading="lazy"></p>
 </li>
 <li>
 <p>有序列表<br>
 语法：<br>
 数字加点<br>
-<img src="https://louhaojie99.github.io//post-images/1563508802149.png" alt="" loading="lazy"><br>
-<img src="https://louhaojie99.github.io//post-images/1563508811813.png" alt="" loading="lazy"></p>
+<img src="https://loudashaoye.github.io//post-images/1563508802149.png" alt="" loading="lazy"><br>
+<img src="https://loudashaoye.github.io//post-images/1563508811813.png" alt="" loading="lazy"></p>
 </li>
 <li>
 <p>列表嵌套<br>
@@ -158,8 +158,8 @@ n个...<br>
 </ol>
 <h1 id="八-表格">八、表格</h1>
 <p>语法：<br>
-<img src="https://louhaojie99.github.io//post-images/1563512358372.png" alt="" loading="lazy"><br>
-<img src="https://louhaojie99.github.io//post-images/1563512370322.png" alt="" loading="lazy"></p>
+<img src="https://loudashaoye.github.io//post-images/1563512358372.png" alt="" loading="lazy"><br>
+<img src="https://loudashaoye.github.io//post-images/1563512370322.png" alt="" loading="lazy"></p>
 <table>
 <thead>
 <tr>
@@ -184,28 +184,28 @@ n个...<br>
 <h1 id="九-代码">九、代码</h1>
 <p>语法：<br>
 单行代码：代码之间分别用一个反引号包起来<br>
-<img src="https://louhaojie99.github.io//post-images/1563512833771.png" alt="" loading="lazy"><br>
+<img src="https://loudashaoye.github.io//post-images/1563512833771.png" alt="" loading="lazy"><br>
 代码块：代码之间分别用三个反引号包起来，且两边的反引号单独占一行<br>
-<img src="https://louhaojie99.github.io//post-images/1563512848957.png" alt="" loading="lazy"><br>
-<img src="https://louhaojie99.github.io//post-images/1563512861504.png" alt="" loading="lazy"><br>
+<img src="https://loudashaoye.github.io//post-images/1563512848957.png" alt="" loading="lazy"><br>
+<img src="https://loudashaoye.github.io//post-images/1563512861504.png" alt="" loading="lazy"><br>
 示例：</p>
 <p>单行代码<br>
-<img src="https://louhaojie99.github.io//post-images/1563512872763.png" alt="" loading="lazy"><br>
+<img src="https://loudashaoye.github.io//post-images/1563512872763.png" alt="" loading="lazy"><br>
 代码块<br>
-<img src="https://louhaojie99.github.io//post-images/1563512882114.png" alt="" loading="lazy"><br>
+<img src="https://loudashaoye.github.io//post-images/1563512882114.png" alt="" loading="lazy"><br>
 效果如下：</p>
 <p>单行代码</p>
 <p>create database hero;</p>
 <p>代码块<br>
-<img src="https://louhaojie99.github.io//post-images/1563512894960.png" alt="" loading="lazy"></p>
+<img src="https://loudashaoye.github.io//post-images/1563512894960.png" alt="" loading="lazy"></p>
 <h1 id="十-流程图">十、流程图</h1>
-<figure data-type="image" tabindex="1"><img src="https://louhaojie99.github.io//post-images/1563512906060.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://loudashaoye.github.io//post-images/1563512906060.png" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[win  PE系统引导设置]]></title>
-        <id>https://louhaojie99.github.io/post/win-an-zhuang-xi-tong-bios-yin-dao-she-zhi/</id>
-        <link href="https://louhaojie99.github.io/post/win-an-zhuang-xi-tong-bios-yin-dao-she-zhi/">
+        <id>https://loudashaoye.github.io/post/win-an-zhuang-xi-tong-bios-yin-dao-she-zhi/</id>
+        <link href="https://loudashaoye.github.io/post/win-an-zhuang-xi-tong-bios-yin-dao-she-zhi/">
         </link>
         <updated>2019-07-18T03:59:27.000Z</updated>
         <content type="html"><![CDATA[<p>windows系统安装教程请咨询up<br>
@@ -237,8 +237,8 @@ n个...<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vue]]></title>
-        <id>https://louhaojie99.github.io/post/vue/</id>
-        <link href="https://louhaojie99.github.io/post/vue/">
+        <id>https://loudashaoye.github.io/post/vue/</id>
+        <link href="https://loudashaoye.github.io/post/vue/">
         </link>
         <updated>2019-07-18T03:54:31.000Z</updated>
         <content type="html"><![CDATA[<p>博客持续完善中...</p>
