@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://loudashaoye.github.io/</id>
     <title>阿豪博客</title>
-    <updated>2020-02-23T02:00:10.425Z</updated>
+    <updated>2020-02-23T02:02:16.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://loudashaoye.github.io/"/>
     <link rel="self" href="https://loudashaoye.github.io/atom.xml"/>
-    <subtitle>失望让人清醒</subtitle>
+    <subtitle>&lt;em&gt;人生没有标准的答案，但努力一定能成为更好的自己。&lt;/em&gt;</subtitle>
     <logo>https://loudashaoye.github.io/images/avatar.png</logo>
     <icon>https://loudashaoye.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 阿豪博客</rights>
