@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://loudashaoye.github.io/</id>
     <title>阿豪</title>
-    <updated>2020-03-22T12:33:24.609Z</updated>
+    <updated>2020-03-22T12:49:18.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://loudashaoye.github.io/"/>
     <link rel="self" href="https://loudashaoye.github.io/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://loudashaoye.github.io/images/avatar.png</logo>
     <icon>https://loudashaoye.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 阿豪</rights>
+    <entry>
+        <title type="html"><![CDATA[Day01-HTML]]></title>
+        <id>https://loudashaoye.github.io/post/day01-html/</id>
+        <link href="https://loudashaoye.github.io/post/day01-html/">
+        </link>
+        <updated>2020-03-22T12:34:49.000Z</updated>
+        <content type="html"><![CDATA[<ol>
+<li>
+<p>了解什么是HTML、CSS？<br>
+1.1   他们是两种编程语言，一般情况下需要配合使用，是作为网站开发的基础语言。</p>
+</li>
+<li>
+<p>什么是HTML，什么是CSS？<br>
+2.1   是做网站的编程语言</p>
+</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020-03-22——IT之路重新开始。]]></title>
         <id>https://loudashaoye.github.io/post/2020-03-22-it-zhi-lu-chong-xin-kai-shi/</id>
