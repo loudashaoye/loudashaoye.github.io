@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://loudashaoye.github.io/</id>
-    <title>阿豪-Blogs</title>
-    <updated>2020-02-23T02:20:56.119Z</updated>
+    <title>阿豪</title>
+    <updated>2020-03-22T11:59:13.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://loudashaoye.github.io/"/>
     <link rel="self" href="https://loudashaoye.github.io/atom.xml"/>
-    <subtitle>&lt;em&gt;人生没有标准的答案，但努力一定能成为更好的自己。&lt;/em&gt;</subtitle>
+    <subtitle>&lt;em&gt; 当你对自己不满意的时候，一定要做出改变。&lt;/em&gt;</subtitle>
     <logo>https://loudashaoye.github.io/images/avatar.png</logo>
     <icon>https://loudashaoye.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 阿豪-Blogs</rights>
+    <rights>All rights reserved 2020, 阿豪</rights>
     <entry>
         <title type="html"><![CDATA[前端开发工具vscode插件配置]]></title>
         <id>https://loudashaoye.github.io/post/qian-duan-kai-fa-gong-ju-vscode-cha-jian-pei-zhi/</id>
@@ -39,15 +39,6 @@
         </link>
         <updated>2019-09-05T04:52:30.000Z</updated>
         <content type="html"><![CDATA[<p>部署条件：办公电脑在同一网络环境之下，网络状态设置为家庭网络，创建家庭网络共享局域网，家庭成员假如即可。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[笔记暂时不更新...]]></title>
-        <id>https://loudashaoye.github.io/post/bi-ji-zan-shi-bu-geng-xin/</id>
-        <link href="https://loudashaoye.github.io/post/bi-ji-zan-shi-bu-geng-xin/">
-        </link>
-        <updated>2019-07-23T13:17:42.000Z</updated>
-        <content type="html"><![CDATA[<p>全部整理总结完会发布。</p>
 ]]></content>
     </entry>
     <entry>
@@ -233,15 +224,6 @@ n个...<br>
 	Discard Changes and Reset       不保存更改并重置
 	Reseore Defaults                恢复默认设置
 </code></pre>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue]]></title>
-        <id>https://loudashaoye.github.io/post/vue/</id>
-        <link href="https://loudashaoye.github.io/post/vue/">
-        </link>
-        <updated>2019-07-18T03:54:31.000Z</updated>
-        <content type="html"><![CDATA[<p>博客持续完善中...</p>
 ]]></content>
     </entry>
 </feed>
