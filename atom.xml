@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://loudashaoye.github.io/</id>
     <title>阿豪</title>
-    <updated>2020-03-22T12:58:16.773Z</updated>
+    <updated>2020-03-22T13:05:25.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://loudashaoye.github.io/"/>
     <link rel="self" href="https://loudashaoye.github.io/atom.xml"/>
@@ -23,8 +23,27 @@
 </li>
 <li>
 <p>什么是HTML，什么是CSS？<br>
-是做网站的编程语言<br>
-浏览器解析后的样式就是我们看到的网站，如何看到网站的原始代码呢?可以通过鼠标右键<strong>查看网站源代码</strong></p>
+是做网站的编程语言。<br>
+浏览器解析后的样式就是我们看到的网站，如何看到网站的原始代码呢?可以通过鼠标右键查看网站源代码。<br>
+<em><strong>HTML用于定义文档内容的结构，一个网页就是一篇文档</strong></em><br>
+<em><strong>CSS用于定义HTML文档的样式也就是外观</strong></em><br>
+<em><strong>HTML文档页面中的样式都是由CSS决定</strong></em></p>
+</li>
+<li>
+<p>前端开发推荐使用的编辑器Visual Studio Code<br>
+前期常用插件推荐：<br>
+01、菜单栏中文汉化插件           Chinese (Simplified)<br>
+02、文件图标主题                vscode-icons<br>
+03、界面主题                    Atom One Dark Theme<br>
+04、html与css关联               CSS Peek<br>
+05、代码格式化                  Prettier - Code formatter<br>
+06、图标集                      Icon Fonts<br>
+07、自动修改标签                 Auto Rename Tag<br>
+08、HTML模板                    HTML Boilerplate<br>
+09、颜色提示                     Color Info<br>
+10、自动闭合标签                 Auto Close Tag<br>
+11、html中css class的只能提示;   HTML CSS Support<br>
+12、运行html文件插件             open in browser  \  view in browser</p>
 </li>
 </ol>
 ]]></content>
