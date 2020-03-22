@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://loudashaoye.github.io/</id>
     <title>阿豪</title>
-    <updated>2020-03-22T12:49:18.822Z</updated>
+    <updated>2020-03-22T12:53:33.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://loudashaoye.github.io/"/>
     <link rel="self" href="https://loudashaoye.github.io/atom.xml"/>
@@ -19,11 +19,12 @@
         <content type="html"><![CDATA[<ol>
 <li>
 <p>了解什么是HTML、CSS？<br>
-1.1   他们是两种编程语言，一般情况下需要配合使用，是作为网站开发的基础语言。</p>
+他们是两种编程语言，一般情况下需要配合使用，是作为网站开发的基础语言。</p>
 </li>
 <li>
 <p>什么是HTML，什么是CSS？<br>
-2.1   是做网站的编程语言</p>
+是做网站的编程语言<br>
+浏览器解析后的样式就是我们看到的网站，如何看到网站的原始代码呢?可以通过鼠标右键<strong>查看网站源代码</strong></p>
 </li>
 </ol>
 ]]></content>
