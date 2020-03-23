@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://loudashaoye.github.io/</id>
     <title>阿豪</title>
-    <updated>2020-03-23T03:46:32.853Z</updated>
+    <updated>2020-03-23T03:49:46.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://loudashaoye.github.io/"/>
     <link rel="self" href="https://loudashaoye.github.io/atom.xml"/>
@@ -216,7 +216,7 @@ ctrl + d 选择相同元素的下一个
 </ul>
 </li>
 </ul>
-<h3 id="fourweb的三大核心技术">four：web的三大核心技术？</h3>
+<h2 id="fourweb的三大核心技术">four：web的三大核心技术？</h2>
 <blockquote>
 <p>HTML</p>
 <blockquote>
@@ -244,6 +244,18 @@ HTML常见标签：[常见标签]<a href="http://www.html5star.com/manual/html5l
 标签的属性：来修饰标签的，设置标签当前的一些功能<br>
 &lt;标签 属性='值' 属性2='值'&gt;</li>
 </ul>
+<h2 id="sixhtml初始代码">six：HTML初始代码</h2>
+<pre><code>&lt;!DOCTYPE html&gt;  //文档声明
+&lt;html lang=&quot;en&quot;&gt;  // html文件最外层标签：包裹着html所有的代码   lang=&quot;en&quot;表示是一个英文网站，lang=&quot;zh-CN&quot;表示是一个中文网站
+&lt;head&gt;  //头部
+        &lt;meta charset=&quot;UTF-8&quot;&gt;  //元信息：编写网页中的一些辅助信息
+         &lt;title&gt;网页标题&lt;/title&gt;
+&lt;/head&gt; 
+&lt;body&gt;  //身体
+                    
+&lt;/body&gt;
+&lt;/html&gt;
+</code></pre>
 ]]></content>
     </entry>
     <entry>
