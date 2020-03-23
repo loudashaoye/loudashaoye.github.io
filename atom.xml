@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://loudashaoye.github.io/</id>
     <title>阿豪</title>
-    <updated>2020-03-23T04:08:59.980Z</updated>
+    <updated>2020-03-23T07:54:35.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://loudashaoye.github.io/"/>
     <link rel="self" href="https://loudashaoye.github.io/atom.xml"/>
@@ -167,7 +167,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Day02_HTML]]></title>
+        <title type="html"><![CDATA[Day02_HTML+CSS]]></title>
         <id>https://loudashaoye.github.io/post/mar/</id>
         <link href="https://loudashaoye.github.io/post/mar/">
         </link>
@@ -617,11 +617,32 @@ font-style: 字体样式
     visited 访问后的样式 (只能添加给a标签)
     hover   鼠标移入时的样式 (可以添加给所有的标签)
     active  鼠标按下时的样式 (可以添加给所有的标签)
+
+    注：一般的网站都只设置a初始样式和 hover移入样式
+</code></pre>
+<h2 id="31-结构性伪类选择器">31、结构性伪类选择器：</h2>
+<pre><code>    ul li:nth-of-type(3)  nth-child()
+    角标是从1开始的，1表示第一项，2表示第二项 | n值 表示从0到无穷大
+    first-of-type
+    last-of-type
+    only-of-type
+</code></pre>
+<h2 id="32-css继承">32、CSS继承？</h2>
+<pre><code>    文字相关的样式可以继承
+    布局相关的样式不能被继承
+</code></pre>
+<h2 id="33-css优先级">33、CSS优先级</h2>
+<pre><code>    1、相同样式优先级
+            当设置相同样式时，后面的优先级较高，但不建议出现重复设置样式的情况。
+    2、内部样式与外部样式
+            内部样式与外部样式优先级相同，如果都设置了相同样式，那么后写的引入方式优先级高
+    3、单一样式优先级
+            style行间  &gt; id &gt; class &gt; tag  &gt; *  &gt;继承
 </code></pre>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Day01_HTML]]></title>
+        <title type="html"><![CDATA[Day01_HTML+CSS]]></title>
         <id>https://loudashaoye.github.io/post/day01-html/</id>
         <link href="https://loudashaoye.github.io/post/day01-html/">
         </link>

@@ -77,7 +77,7 @@
                         <input id="switch_default" type="checkbox" class="switch_default">
                         <label for="switch_default" class="toggleBtn"></label>
             </div>
-            <form id="gridea-search-form" data-update="1584936536716" action="/search/index.html">
+            <form id="gridea-search-form" data-update="1584950068291" action="/search/index.html">
                 <input class="search-input" autocomplete="off" spellcheck="false" name="q" autofocus="true" placeholder="Search...">
             </form>
         </div>
@@ -96,7 +96,7 @@
                         <!--zh-->
                         <a id="mobile-toggle-theme-zh" class="a zh">&nbsp;&#x6697;&#x9ED1;</a>
                     </div>
-                    <form id="gridea-search-form" data-update="1584936536716" action="/search/index.html">
+                    <form id="gridea-search-form" data-update="1584950068291" action="/search/index.html">
                         <input class="search-input" autocomplete="off" spellcheck="false" name="q" autofocus="true" placeholder="Search...">
                     </form>
                     <!--en-->
@@ -158,7 +158,7 @@
                     <article class="post-wrap">
                         <header class="post-header">
                             <h1 class="post-title">
-                                Day02_HTML
+                                Day02_HTML+CSS
                             </h1>
                             
                                 <!--en-->
@@ -171,9 +171,9 @@
                                 Date: <a href="#">2020-03-23</a>
                             </span>
                                     <span class="post-readtime">Reading Time:<a
-                                    href="#">13.6
+                                    href="#">14.4
                                     mins</a></span>
-                                    <span class="post-words">words:<a href="#">3233</a></span>
+                                    <span class="post-words">words:<a href="#">3449</a></span>
                                     
                                 </div>
                                 
@@ -624,6 +624,27 @@ font-style: 字体样式
     visited 访问后的样式 (只能添加给a标签)
     hover   鼠标移入时的样式 (可以添加给所有的标签)
     active  鼠标按下时的样式 (可以添加给所有的标签)
+
+    注：一般的网站都只设置a初始样式和 hover移入样式
+</code></pre>
+<h2 id="31-结构性伪类选择器">31、结构性伪类选择器：</h2>
+<pre><code>    ul li:nth-of-type(3)  nth-child()
+    角标是从1开始的，1表示第一项，2表示第二项 | n值 表示从0到无穷大
+    first-of-type
+    last-of-type
+    only-of-type
+</code></pre>
+<h2 id="32-css继承">32、CSS继承？</h2>
+<pre><code>    文字相关的样式可以继承
+    布局相关的样式不能被继承
+</code></pre>
+<h2 id="33-css优先级">33、CSS优先级</h2>
+<pre><code>    1、相同样式优先级
+            当设置相同样式时，后面的优先级较高，但不建议出现重复设置样式的情况。
+    2、内部样式与外部样式
+            内部样式与外部样式优先级相同，如果都设置了相同样式，那么后写的引入方式优先级高
+    3、单一样式优先级
+            style行间  &gt; id &gt; class &gt; tag  &gt; *  &gt;继承
 </code></pre>
 
                         </div>
@@ -635,8 +656,8 @@ font-style: 字体样式
                                                     <i class="post-share"></i>
                                                     <span>Share:</span>
                                                         <a title="QR Code" target="_blank" href="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://loudashaoye.github.io/post/mar/"><i class="fa fa-qrcode"></i></a>
-                                                        <a title="QQ" target="_blank" href="https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=https://loudashaoye.github.io/post/mar/&sharesource=qzone&title=Day02_HTML&pics=https://loudashaoye.github.io//images/avatar.png?v=1584936536716&summary="><i class="fa fa-qq"></i></a>
-                                                        <a title="Weibo" target="_blank" href="https://service.weibo.com/share/share.php?url=https://loudashaoye.github.io/post/mar/&sharesource=weibo&title=Day02_HTML + " - " + &pic="https://loudashaoye.github.io//images/avatar.png?v=1584936536716 "><i class="fa fa-weibo "></i></a>
+                                                        <a title="QQ" target="_blank" href="https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=https://loudashaoye.github.io/post/mar/&sharesource=qzone&title=Day02_HTML+CSS&pics=https://loudashaoye.github.io//images/avatar.png?v=1584950068291&summary="><i class="fa fa-qq"></i></a>
+                                                        <a title="Weibo" target="_blank" href="https://service.weibo.com/share/share.php?url=https://loudashaoye.github.io/post/mar/&sharesource=weibo&title=Day02_HTML+CSS + " - " + &pic="https://loudashaoye.github.io//images/avatar.png?v=1584950068291 "><i class="fa fa-weibo "></i></a>
                                                         
                                                                 </span>
                                                                 <!--en-->
@@ -663,7 +684,7 @@ font-style: 字体样式
                                                                                         
                                                                                             
                                                                                                 <a class="next" rel="next" href="https://loudashaoye.github.io/post/day01-html/">
-                                                                                                    Day01_HTML
+                                                                                                    Day01_HTML+CSS
                                                                                                 </a>
                                                                                                 
                                                                                 </section>
@@ -741,7 +762,7 @@ font-style: 字体样式
                     console.clear();
                     
                     var newDate = new Date();
-                    newDate.setTime(1584936536716);
+                    newDate.setTime(1584950068291);
                     console.log(" Blog Update Time: " + newDate.toLocaleDateString());
                     console.log("\n %c \u26a1Theme:Chic Author's Blog:https://blog.itjoker.cn  Write By ITJoker  \n\n", "color: #ffffff; background: rgba(49, 49, 49, 0.85); padding:5px 0;border-radius:5px;");
                 </script>
