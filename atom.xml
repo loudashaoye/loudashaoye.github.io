@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://loudashaoye.github.io/</id>
     <title>阿豪</title>
-    <updated>2020-03-23T03:49:46.432Z</updated>
+    <updated>2020-03-23T03:58:18.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://loudashaoye.github.io/"/>
     <link rel="self" href="https://loudashaoye.github.io/atom.xml"/>
@@ -255,6 +255,53 @@ HTML常见标签：[常见标签]<a href="http://www.html5star.com/manual/html5l
                     
 &lt;/body&gt;
 &lt;/html&gt;
+</code></pre>
+<h2 id="sevenhtml注释">seven：HTML注释</h2>
+<p>写法：<code>// /**/ &lt;!-- --&gt;</code><br>
+<strong>意义</strong>:<br>
+<code>1、把暂时不用的代码注释起来，方便以后使用</code><br>
+<code>2、对开发人员进行提示作用</code><br>
+<strong>快速添加注释与删除注释</strong>：<br>
+<code>1、ctrl + /</code><br>
+<code>2、shift + alt + a</code><br>
+<strong>HTML语义化</strong><br>
+所谓HTML语义化指的是，根据网页中内容的结构，选择适合的HTML<br>
+标签进行编写。</p>
+<h2 id=""></h2>
+<h2 id="eight标题与段落">eight：标题与段落？</h2>
+<pre><code>    标题 -&gt; title：&lt;h1&gt;&lt;/h1&gt;  ...  &lt;h6&gt;&lt;/h6&gt;
+    在一个网页中h1标题最重要，并且一个.html文件中只能出现一次h1标签
+    h5、h6标签在网页中不经常使用
+    段落 -&gt; 双标签：&lt;p&gt;&lt;/p&gt;
+</code></pre>
+<h2 id="nine文本修饰标签">nine：文本修饰标签</h2>
+<pre><code>    强调 -&gt; 双标签
+    &lt;strong&gt;&lt;/strong&gt;&lt;em&gt;&lt;/em&gt;
+    区别:  1.写法和展示效果是有区别的，一个加粗，一个斜体
+           2.strong的强调性更强, em的强调性更弱
+         
+         &lt;sub&gt;&lt;/sub&gt;   &lt;sup&gt;&lt;/sup&gt;下标文本和上标文本
+
+    删除文本    &lt;del&gt;&lt;/del&gt;
+    插入文本    &lt;ins&gt;&lt;/ins&gt;
+        注：一般情况下，删除文本一般要和插入文本配合使用
+</code></pre>
+<h2 id="11-图片标签">11、图片标签？</h2>
+<pre><code>img -&gt; 单标签
+src: 引入图片的地址
+alt: 当图片出现问题的时候，会提示一些友好的文字
+title: 提示信息
+width、height: 控制图片的大小
+防止网速慢加载不到图片，会导致高度塌陷。建议添加图片增加上高度宽度
+</code></pre>
+<h2 id="12-引入文件的地址路径">12、引入文件的地址路径</h2>
+<pre><code>相对路径
+    .在路径中表示当前路径
+    ..在路径中表示上一级路径
+
+绝对路径
+    E:/dog.jpg
+    https://www.baidu.com/aaa.jpg
 </code></pre>
 ]]></content>
     </entry>
