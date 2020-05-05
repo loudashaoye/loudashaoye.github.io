@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://loudashaoye.github.io/</id>
     <title>阿豪</title>
-    <updated>2020-04-25T11:44:30.778Z</updated>
+    <updated>2020-05-05T13:23:30.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://loudashaoye.github.io/"/>
     <link rel="self" href="https://loudashaoye.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://loudashaoye.github.io/images/avatar.png</logo>
     <icon>https://loudashaoye.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 阿豪</rights>
+    <entry>
+        <title type="html"><![CDATA[Flex弹性盒模型]]></title>
+        <id>https://loudashaoye.github.io/post/flex-dan-xing-he-mo-xing/</id>
+        <link href="https://loudashaoye.github.io/post/flex-dan-xing-he-mo-xing/">
+        </link>
+        <updated>2020-05-05T13:11:26.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="一-简要介绍">一、简要介绍</h3>
+<p>    css3最喜欢的新属性之一便是flex布局属性，用六个字概括便是<strong>简单、方便、快速</strong>。<br>
+   flex( flexble box：弹性局部盒模型 )，是2009年w3c提出的一种可以简洁、快速弹性布局的属性。<strong>主要思想是给予容器控制内部元素高度和宽度的能力</strong>。目前已得到以下浏览器支持：<br>
+<img src="https://loudashaoye.github.io//post-images/1588684994430.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Markdown_md（Gridea）练习]]></title>
         <id>https://loudashaoye.github.io/post/markdown_mdgridealian-xi/</id>
