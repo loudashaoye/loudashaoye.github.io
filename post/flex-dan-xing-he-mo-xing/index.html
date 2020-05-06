@@ -84,7 +84,7 @@
             <h1>Flex弹性盒模型</h1>
             <span class="meta">
             	Posted on
-              2020-05-05，1 min read
+              2020-05-05，2 min read
             </span>
           </div>
         </div>
@@ -97,10 +97,21 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
-          <h4 id="一-简要介绍">一、简要介绍</h4>
+          <h5 id="一-简要介绍"><strong>一、简要介绍</strong></h5>
 <p>    css3最喜欢的新属性之一便是flex布局属性，用六个字概括便是<strong>简单、方便、快速</strong>。<br>
    flex( flexble box：弹性局部盒模型 )，是2009年w3c提出的一种可以简洁、快速弹性布局的属性。<strong>主要思想是给予容器控制内部元素高度和宽度的能力</strong>。目前已得到以下浏览器支持：<br>
-<img src="https://loudashaoye.github.io//post-images/1588684994430.png" alt="" loading="lazy"></p>
+<img src="https://loudashaoye.github.io//post-images/1588684994430.png" alt="五大浏览器" loading="lazy"><br>
+  其中在webkit内核的浏览器使用时，必须加上**-webkit**前缀，以下不再重复说明。<br>
+  下图为flex的相关概念的示意图：<br>
+<img src="https://loudashaoye.github.io//post-images/1588764333372.jpg" alt="flex展示模型" loading="lazy"><br>
+  使用flex布局的容器(flex container)，它内部的元素自动成为flex项目（flex item）。容器拥有两根隐形的轴，水平的主轴(main axis)，和竖直的交叉轴。主轴开始的位置，既主轴与有边框的交点，称为main start，主轴结束的位置成为main end；交叉轴开始的位置成为cross；交叉轴结束的位置成为corss end。item按主轴或交叉轴排列，item在主轴方向上占据的宽度成为main size，在交叉轴方向上占据的宽度围城corss size。</p>
+<h5 id="二-flex弹性盒子基础概念"><strong>二、flex弹性盒子基础概念</strong></h5>
+<p>  flex是分为主轴和副轴，默认情况下展示水平方向上一个主轴排列。<br>
+  外层盒子容器container设置为 display: flex；使结构展示为弹性盒子。<br>
+  默认情况下主轴水平方向上一个排布，如果主轴内容超出就会默认进行折行显示。<br>
+   <strong>控制换行属性：</strong> flex-wrap：nowrap;  //默认情况下不换行<br>
+           flex-wrap：wrap; //换行<br>
+           flex-direction：column; //副轴方向(Y轴)，从上到下进行排列,空间不够进行换行。</p>
 
           
           <p class="next-post">下一篇：
