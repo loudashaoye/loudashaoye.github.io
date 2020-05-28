@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://loudashaoye.github.io/</id>
     <title>HJ.</title>
-    <updated>2020-05-06T13:51:26.541Z</updated>
+    <updated>2020-05-28T14:18:16.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://loudashaoye.github.io/"/>
     <link rel="self" href="https://loudashaoye.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://loudashaoye.github.io/images/avatar.png</logo>
     <icon>https://loudashaoye.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, HJ.</rights>
+    <entry>
+        <title type="html"><![CDATA[ZZ-H5-2005_DAY01]]></title>
+        <id>https://loudashaoye.github.io/post/zz-h5-2005_day01/</id>
+        <link href="https://loudashaoye.github.io/post/zz-h5-2005_day01/">
+        </link>
+        <updated>2020-05-25T09:51:53.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="记录成长点点滴滴h5开班典礼">记录成长点点滴滴—H5开班典礼！！！</h3>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flex弹性盒模型]]></title>
         <id>https://loudashaoye.github.io/post/flex-dan-xing-he-mo-xing/</id>
@@ -218,7 +227,8 @@
 08、HTML模板                       HTML Boilerplate<br>
 09、颜色提示                       Color Info		<br>
 10、自动闭合标签                 Auto Close Tag<br>
-11、html中css class的只能提示         ;HTML CSS Support</p>
+11、html中css class的只能提示         ;HTML CSS Support	<br>
+12、预览插件    open in browser</p>
 ]]></content>
     </entry>
     <entry>
