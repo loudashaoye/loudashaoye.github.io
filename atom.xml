@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://loudashaoye.github.io/</id>
     <title>HJ.</title>
-    <updated>2020-05-28T14:19:49.843Z</updated>
+    <updated>2020-05-28T14:24:03.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://loudashaoye.github.io/"/>
     <link rel="self" href="https://loudashaoye.github.io/atom.xml"/>
-    <subtitle>&lt;em&gt; 当你对自己不满意的时候，一定要做出改变。&lt;/em&gt;</subtitle>
+    <subtitle>&lt;em&gt; 祝愿所有的好朋友，走最远的路，见最爱的人。&lt;/em&gt;</subtitle>
     <logo>https://loudashaoye.github.io/images/avatar.png</logo>
     <icon>https://loudashaoye.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, HJ.</rights>
@@ -16,7 +16,22 @@
         <link href="https://loudashaoye.github.io/post/zz-h5-2005_day01/">
         </link>
         <updated>2020-05-25T09:51:53.000Z</updated>
-        <content type="html"><![CDATA[<h3 id="记录成长点点滴滴h5开班典礼">记录成长点点滴滴—H5开班典礼！！！</h3>
+        <content type="html"><![CDATA[<p>前言<br>
+话题壹: 如何学好前端编程？<br>
+感兴趣<br>
+够努力<br>
+人生没有标准的答案，但努力一定能成为更好的自己！</p>
+<pre><code>话题贰：学习忌讳什么？
+            患得患失，真正入这一行。确定好，一门心思走到底！！！
+
+话题叁：了解什么是HTML、CSS？
+        简述：它们是两种编程语言，一般情况下需要配合使用，
+             是作为网站开发的基础语言。
+</code></pre>
+<p>1、什么是HTML、CSS？<br>
+简述：是做网站的编程语言。<br>
+浏览器解析后的样子就是我们看到的网站，<br>
+如何看到网站的原始代码呢？-&gt;(通过鼠标右键查看网站源代码)</p>
 ]]></content>
     </entry>
     <entry>
