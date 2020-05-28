@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://loudashaoye.github.io/</id>
     <title>HJ.</title>
-    <updated>2020-05-28T15:15:51.028Z</updated>
+    <updated>2020-05-28T15:17:07.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://loudashaoye.github.io/"/>
     <link rel="self" href="https://loudashaoye.github.io/atom.xml"/>
@@ -657,162 +657,6 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Markdown_md（Gridea）练习]]></title>
-        <id>https://loudashaoye.github.io/post/markdown_mdgridealian-xi/</id>
-        <link href="https://loudashaoye.github.io/post/markdown_mdgridealian-xi/">
-        </link>
-        <updated>2020-03-23T02:25:19.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="标题的使用">标题的使用</h1>
-<ul>
-<li>
-<h1 id="这是一级标题">这是一级标题</h1>
-</li>
-<li>
-<h2 id="这是二级标题">这是二级标题</h2>
-</li>
-<li>
-<h3 id="这是三级标题">这是三级标题</h3>
-</li>
-<li>
-<h4 id="这是四级标题">这是四级标题</h4>
-</li>
-<li>
-<h5 id="这是五级标题">这是五级标题</h5>
-</li>
-<li>
-<h6 id="这是六级标题">这是六级标题</h6>
-</li>
-</ul>
-<h1 id="斜体-粗体-粗斜体的使用">斜体、粗体、粗斜体的使用</h1>
-<ul>
-<li><em>斜体</em></li>
-<li><strong>粗体</strong></li>
-<li><em><strong>粗斜体</strong></em></li>
-</ul>
-<h1 id="链接插入的使用方式">链接插入的使用方式</h1>
-<ul>
-<li><a href="https://www.bilibili.com" title="百度首页">哔哩哔哩动画</a></li>
-<li>[哔哩哔哩动画][wangzhi1]</li>
-<li><a href="https://www.bilibili.com">https://www.bilibili.com</a></li>
-</ul>
-<h1 id="图片插入的使用方式">图片插入的使用方式</h1>
-<ul>
-<li><img src="https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&amp;quality=100&amp;size=b4000_4000&amp;sec=1584931281&amp;di=c626f319a36ca501738731482536b8bb&amp;src=http://a3.att.hudong.com/68/61/300000839764127060614318218_950.jpg" alt="风景图" title="风景图片" loading="lazy"></li>
-</ul>
-<h1 id="引用">引用</h1>
-<blockquote>
-<p>这是第一句话</p>
-<blockquote>
-<p>这是第二句话</p>
-<blockquote>
-<p>这是第三句话</p>
-<blockquote>
-<p>这是第四句话</p>
-<blockquote>
-<p>这是第五句话</p>
-</blockquote>
-</blockquote>
-</blockquote>
-</blockquote>
-</blockquote>
-<h1 id="代码块">代码块</h1>
-<p><code>html</code><br>
-<code>html</code></p>
-<ul>
-<li>代码区块如下，需要前面连续打四个空格：</li>
-<li>
-<pre><code>  html、css、javascript
-</code></pre>
-</li>
-</ul>
-<pre><code>&lt;!DOCTYPE html&gt;
-&lt;html lang=&quot;en&quot;&gt;
-&lt;head&gt;
-    &lt;meta charset=&quot;UTF-8&quot;&gt;
-    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
-    &lt;title&gt;Document&lt;/title&gt;
-&lt;/head&gt;
-&lt;body&gt;
-    
-&lt;/body&gt;
-&lt;/html&gt;
-</code></pre>
-<h1 id="分割线">分割线</h1>
-<ul>
-<li>连续三个*，或者三个-，或者三个_</li>
-</ul>
-<hr>
-<hr>
-<hr>
-<h1 id="删除线">删除线</h1>
-<ul>
-<li>删除线使用方式是使用~~左右包括起来（<s>我不想考试</s>）</li>
-</ul>
-<h1 id="有序列表和无序列表">有序列表和无序列表</h1>
-<ul>
-<li>这是一级
-<ul>
-<li>这是二级
-<ul>
-<li>这是三级</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<ol>
-<li>这是一级<br>
-2. 这是二级
-<ol>
-<li>这是三级</li>
-</ol>
-</li>
-</ol>
-<p>#表格</p>
-<table>
-<thead>
-<tr>
-<th style="text-align:center">Table</th>
-<th style="text-align:center">Are</th>
-<th style="text-align:center">Collo</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:center">1</td>
-<td style="text-align:center">2</td>
-<td style="text-align:center">3</td>
-</tr>
-<tr>
-<td style="text-align:center">4</td>
-<td style="text-align:center">5</td>
-<td style="text-align:center">6</td>
-</tr>
-<tr>
-<td style="text-align:center">7</td>
-<td style="text-align:center">8</td>
-<td style="text-align:center">9</td>
-</tr>
-</tbody>
-</table>
-<p>四五六<br>
- 四五六</p>
-<h1 id="脚注">脚注</h1>
-<p>脚注<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup></p>
-<ul>
-<li>脚注 id 必须唯一</li>
-<li>无论脚注 id 如何起名，显示时一律标为数字，并且按出现顺序排列</li>
-</ul>
-<hr class="footnotes-sep">
-<section class="footnotes">
-<ol class="footnotes-list">
-<li id="fn1" class="footnote-item"><p>这里是脚注 <a href="#fnref1" class="footnote-backref">↩︎</a></p>
-</li>
-</ol>
-</section>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[前端开发工具vscode插件配置]]></title>
         <id>https://loudashaoye.github.io/post/qian-duan-kai-fa-gong-ju-vscode-cha-jian-pei-zhi/</id>
         <link href="https://loudashaoye.github.io/post/qian-duan-kai-fa-gong-ju-vscode-cha-jian-pei-zhi/">
@@ -833,15 +677,6 @@
 10、自动闭合标签                 Auto Close Tag<br>
 11、html中css class的只能提示         ;HTML CSS Support	<br>
 12、预览插件    open in browser</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[局域网部署]]></title>
-        <id>https://loudashaoye.github.io/post/ju-yu-wang/</id>
-        <link href="https://loudashaoye.github.io/post/ju-yu-wang/">
-        </link>
-        <updated>2019-09-05T04:52:30.000Z</updated>
-        <content type="html"><![CDATA[<p>部署条件：办公电脑在同一网络环境之下，网络状态设置为家庭网络，创建家庭网络共享局域网，家庭成员假如即可。</p>
 ]]></content>
     </entry>
     <entry>
