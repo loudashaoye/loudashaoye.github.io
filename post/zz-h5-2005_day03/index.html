@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta content="yes" name="apple-mobile-web-app-capable" />
+  <meta content="black" name="apple-mobile-web-app-status-bar-style" />
+  <meta name="referrer" content="never">
+  <meta name="keywords" content="">
+  <meta name="description" content="">
+  <meta name="author" content="kveln">
+  <title>ZZ-H5-2005_DAY03 | HJ.</title>
+  <link href="https://cdn.bootcss.com/twitter-bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+  <!-- <link href="https://loudashaoye.github.io//media/css/bootstrap.min.css" rel="stylesheet"> -->
+  <!--  <link href="https://loudashaoye.github.io//media/css/all.min.css" rel="stylesheet" type="text/css"> -->
+  <link href="https://cdn.bootcss.com/font-awesome/5.11.2/css/all.min.css" rel="stylesheet">
+  <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+  <link rel="alternate" type="application/rss+xml" title="ZZ-H5-2005_DAY03 | HJ. » Feed" href="https://loudashaoye.github.io//atom.xml">
+  <link rel="stylesheet"href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.15.10/build/styles/androidstudio.min.css">
+  <link href="https://loudashaoye.github.io//styles/main.css" rel="stylesheet">
+  <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.15.10/build/highlight.min.js"></script>
+  <!-- <script src="https://loudashaoye.github.io//media/scripts/jquery.min.js"></script> -->
+  <script>hljs.initHighlightingOnLoad();</script>
+  
+
+    <meta property="og:description" content="ZZ-H5-2005_DAY03"/>
+    <meta property="og:url" content="https://loudashaoye.github.io/post/zz-h5-2005_day03/"/>
+    <meta property="og:locale" content="zh-CN"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:site_name" content="HJ."/>
+  </head>
+  <body>
+  	<!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+    <div class="container">
+      <a class="navbar-brand" href="https://loudashaoye.github.io/">HJ.</a>
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        Menu
+        <i class="fas fa-bars"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          
+          <li class="nav-item">
+              
+              <a class="nav-link" href="/">首页</a>
+              
+          </li>
+          
+          <li class="nav-item">
+              
+              <a class="nav-link" href="/archives">归档</a>
+              
+          </li>
+          
+          <li class="nav-item">
+              
+              <a class="nav-link" href="/tags">标签</a>
+              
+          </li>
+          
+          <li class="nav-item">
+              
+              <a class="nav-link" href="/post/about">关于博主</a>
+              
+          </li>
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <!-- Page Header -->
+  <header class="masthead" style="background-image: url('https://loudashaoye.github.io//media/images/home-bg.jpg')">
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="post-heading">
+          	<span class="tags">
+          	 
+        </span>
+            <h1>ZZ-H5-2005_DAY03</h1>
+            <span class="meta">
+            	Posted on
+              2020-05-28，6 min read
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Post Content -->
+  <article>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <pre><code>27、表单标签
+    &lt;from&gt;： 表单的最外层容器
+    &lt;input&gt;: 标签用于搜集用户信息,根据不同的type属性值,展示不同的控件,
+    如输入框、密码框、复选框等。
+
+    input标签有一个type属性,决定是什么控件.
+            type属性        含义
+            text            普通的文本输入框
+            password        密码输入框   placeholder提示(请输入密码)
+            checkbox        复选框       disabled禁止    checked默认选中
+            radio           单选框
+            file            上传文件
+            submit          提交按钮
+            reset           重置按钮
+
+    &lt;textarea&gt;：多行文本框
+    &lt;select&gt;、&lt;option&gt;：下拉菜单
+            selected当前被选中
+            disabled丧失能力禁用
+            multiple多选属性
+    &lt;label&gt;：辅助表单
+            &lt;input type=&quot;radio&quot; name=&quot;gender&quot; id=&quot;man&quot;&gt;&lt;label for=&quot;man&quot;&gt;男&lt;/label&gt;
+            &lt;input type=&quot;radio&quot; name=&quot;gender&quot; id=&quot;woman&quot;&gt;&lt;label for=&quot;woman&quot;&gt;女&lt;/label&gt;
+
+    post和get的区别？
+    1. get是从服务器上获取数据，post是向服务器传送数据。
+    2. get是把参数数据队列加到提交表单的ACTION属性所指的URL中，在URL中可以看到
+        post是通过HTTP post机制，用户看不到这个过程 。
+    3. get传送的数据量较小，不能大于2KB。post传送的数据量较大，一般被默认为不受限制
+    4. get安全性非常低，post安全性较高。但是执行效率却比Post方法好。
+
+
+28、块标签与内联标签
+    div：做一个区域划分的块 
+    span：对文字进行修饰的内联
+
+29、CSS基础语法
+    CSS基础语法格式：
+        选择器{
+            属性1：值1;
+            属性2：值2;
+            }
+    单位：像素 -&gt; px(pixel)、% -&gt; 百分比
+    常用标签width height background-color
+
+30、CSS的样式引入方式？
+    1.内联样式
+        在html标签上添加&lt;style&gt;&lt;/style&gt;属性来实现的
+    2.内部样式
+        在&lt;style&gt;&lt;/style&gt;标签内添加的样式
+        注：内部样式的有点,可以复用代码
+        区别：内部样式的代码可以复用、符合W3C的规范标准，进行让结构和样式分开处理
+    3.外部样式
+        引入一个外部的css文件
+        &lt;link rel=&quot;stylesheet&quot; href=&quot;./common.css&quot;&gt;
+        &lt;style&gt;
+            @import url('./common.css');    /*不建议使用*/
+        &lt;/style&gt;
+
+31、CSS中颜色表示法？
+    1.单词表示法：red blue green yellow ...
+
+    2.十六进制表示法：#000000  #ffffff
+        0 1 2 3 4 5 7 8 9
+
+    3.rgb三原色表示法: rgb(255,255,255)
+        取值范围0~255
+
+32、CSS背景样式
+    background-color:       背景色
+    background-image:       背景图
+    background-postion:     背景定位    x(left center right)   y(top center bottom)  50%  50%
+    background-repect:      背景平铺方式  repect \ no-repect \ repect-x \ repect-y 
+   
+    background-attachment:  背景图片随滚动条的移动方式  
+                            scroll默认值(背景位置是按照当前元素进行偏移的)
+                            fixed(背景位置是按照浏览器进行便宜的)
+
+33、CSS边框样式？
+    border-style: 边框的样式
+            solid实线
+            dashed虚线
+            dotted点线
+    border-width、height：
+    border-color: red blue yellow green;
+    transparent 透明色
+
+34、CSS文字样式
+    font-family: 字体类型
+        英文字体: Arial,'Times Nes Roman'
+        中文字体：微软雅黑,宋体
+        衬线体与非衬线体
+        注意点: 
+            1.多个字体类型的设置目的
+            2.引号的添加的目的  
+
+35、CSS文字大小
+    font-size 字体大小  默认16px
+            属性取值        字体大小
+            xx-small        最小
+            x-small         较小
+            small           小
+            medium          正常(默认值)
+            large           大
+            x-large         较大
+            xx-large        最大 
+    
+    font-weight: 字体粗细
+            模式：正常(normal)  加粗(bold)
+            写法: 单词(normal、bold) 
+    
+    font-style: 字体样式
+            模式：正常(normal)  斜体(italic)
+            写法：单词(normal、italic)
+            注： oblique也是表示斜体
+            区别：1.italic 所有带有倾斜字体的可以设置
+                  2.oblique 没有倾斜的属性字体也可以设置倾斜操作
+
+
+36、CSS段落样式？
+        text-decoration: 文本修饰
+        下划线
+        删除线
+        上划线
+            text-decoration: underline; /* 下划线 */
+            text-decoration: overline;  /* 上划线 */
+            text-decoration: line-through;/* 删除线 */
+            text-decoration: none;/* 不添加任何装饰 */
+        注：添加多个文本修饰
+
+        text-transform 文本大小写 (针对英文段落)
+            text-transform: lowercase;/* 全部转化为小写 */
+            text-transform: uppercase;/* 全部转化为大写 */
+            text-transform: capitalize;/* 只针对首字符转化为大写 */
+
+        text-indent: 文本缩进
+                em为单位
+
+        text-align: 文本对齐方式
+                常用对齐方式：left center right justify(两端点对齐)
+
+        line-height: 定义行高
+            什么是行高? 一行文字的高度由上边距、字体大小、下边距
+            默认行高不是固定值,根据当前字体的大小不断变化
+           
+           取值: 1.number(px)  |  scale(比例值,文字大小成比例)
+        
+
+        letter-spacing: 字体间距
+        word-spacing:   词之间的间距(只针对英文字体)
+
+        英文和数字不自动这行的问题：
+            1.word-break: break-all;   (非常强烈的折行)
+            2.word-wrap: break-word;   (不是那么强烈折行,会产生一片空白区域)
+
+37、CSS复合样式：
+        复合的写法,是通过空格的方式实现的
+        background: red url('./img/dog.jpg') no-repeat center center; 
+        border: 1px solid red;
+        font: 
+            特点：最少要有两个值 size family
+                  weight style size family √
+                  style weight size family √
+                  weight style size/line-height family √
+       
+        font:italic bold 20px/50px 宋体;
+        注: 尽量不要混写,如果非要混写,那么一定要先写复合样式再写单一样式。
+</code></pre>
+
+          
+          <p class="next-post">下一篇：
+            <a href="https://loudashaoye.github.io/post/zz-h5-2005_day02/">
+              <span class="post-title">
+                ZZ-H5-2005_DAY02&rarr;
+              </span>
+            </a>
+          </p>
+        
+        <div class="comment">
+          
+          
+            <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+<div id="gitalk-container"></div>
+<script>
+  var gitalk = new Gitalk({
+    clientID: 'c40f80c314e1dfd6ff7a',
+    clientSecret: '75f6cb1864f8d754d90542085161ef4766f508a6',
+    repo: 'loudashaoye.github.io',
+    owner: 'loudashaoye',
+    admin: ['loudashaoye'],
+    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+    distractionFreeMode: false  // Facebook-like distraction free mode
+  })
+  gitalk.render('gitalk-container')
+</script>
+
+          
+          
+        
+        </div>
+      </div>
+    </div>
+  </article>
+ <!-- Footer -->
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <ul class="list-inline text-center">
+            
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+              <li class="list-inline-item">
+              <a href="https://loudashaoye.github.io//atom.xml" target="_blank">
+                <span class="fa-stack fa-lg">
+                  <i class="fas fa-circle fa-stack-2x"></i>
+                  <i class="fas fa-rss fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+              </li>
+          </ul>
+          <p class="copyright text-muted">Copyright &copy;<span>HJ.</span><br><a href="https://github.com/getgridea/gridea" class="Themeinfo">Powered by Gridea</a></p>
+        </div>
+      </div>
+    </div>
+   </footer>
+  <!-- Bootstrap core JavaScript -->
+  <script src="https://cdn.bootcss.com/twitter-bootstrap/4.3.1/js/bootstrap.bundle.min.js"></script>
+  <!-- <script src="https://loudashaoye.github.io//media/scripts/bootstrap.bundle.min.js"></script> -->
+  <!-- Bootstrap core JavaScript -->
+  <script src="https://cdn.jsdelivr.net/gh/Alanrk/clean-cdn@1.0/scripts/clean-blog.min.js"></script>
+  <!-- <script src="https://loudashaoye.github.io//media/scripts/clean-blog.min.js"></script> -->
+  <script src="//instant.page/3.0.0" type="module" defer integrity="sha384-OeDn4XE77tdHo8pGtE1apMPmAipjoxUQ++eeJa6EtJCfHlvijigWiJpD7VDPWXV1"></script>
+  <style type="text/css">a.back_to_top{text-decoration:none;position:fixed;bottom:40px;right:30px;background:#f0f0f0;height:40px;width:40px;border-radius:50%;line-height:36px;font-size:18px;text-align:center;transition-duration:.5s;transition-propety:background-color;display:none}a.back_to_top span{color:#888}a.back_to_top:hover{cursor:pointer;background:#dfdfdf}a.back_to_top:hover span{color:#555}@media print,screen and(max-width:580px){.back_to_top{display:none!important}}</style>
+<a id="back_to_top" href="#" class="back_to_top">
+  <span>▲</span></a>
+<script>$(document).ready((function(_this) {
+    return function() {
+      var bt;
+      bt = $('#back_to_top');
+      if ($(document).width() > 480) {
+        $(window).scroll(function() {
+          var st;
+          st = $(window).scrollTop();
+          if (st > 30) {
+            return bt.css('display', 'block')
+          } else {
+            return bt.css('display', 'none')
+          }
+        });
+        return bt.click(function() {
+          $('body,html').animate({
+            scrollTop: 0
+          },
+          800);
+          return false
+        })
+      }
+    }
+  })(this));</script>
+  </body>
+</html>
+
